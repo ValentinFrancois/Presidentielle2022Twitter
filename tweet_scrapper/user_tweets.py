@@ -1,10 +1,11 @@
-from typing import Optional, Union, List, Dict, Iterable
+from typing import Optional, Union, List, Dict, Iterable, Tuple
 
 from datetime import datetime
 from tweepy import Client, Tweet, Response
 
 from tweet_scrapper.auth import get_client
 from tweet_scrapper.constants import CANDIDATES_USERNAMES
+from tweet_scrapper.tweets import GET_TWEET_ARGS
 
 
 def get_user_id(username: str,
@@ -47,15 +48,7 @@ def _query_tweets(user_id: Union[int, str],
         id=user_id,
         # 100 is the maximum allowed count
         max_results=100,
-        # we could filter out retweets and replies here but it limits to 800
-        # results instead of 3200
-        # exclude=['retweets', 'replies'],
-        # minimal fields in response:
-        tweet_fields=['id', 'text', 'created_at', 'referenced_tweets'],
-        user_fields=[],
-        media_fields=[],
-        poll_fields=[],
-        place_fields=[]
+        **GET_TWEET_ARGS
     )
     if after_tweet_id:
         args['since_id'] = after_tweet_id  # excluding condition
@@ -74,19 +67,20 @@ def _query_tweets(user_id: Union[int, str],
     return client.get_users_tweets(**args)
 
 
-def _query_tweets_paginated(user_id: Union[int, str],
-                            after_tweet_id: Optional[Union[int, str]] = None,
-                            after_date: Optional[Union[datetime, str]] = None,
-                            before_tweet_id: Optional[Union[int, str]] = None,
-                            before_date: Optional[Union[datetime, str]] = None,
-                            client: Optional[Client] = None) -> List[Tweet]:
+def _query_tweets_paginated(
+        user_id: Union[int, str],
+        after_tweet_id: Optional[Union[int, str]] = None,
+        after_date: Optional[Union[datetime, str]] = None,
+        before_tweet_id: Optional[Union[int, str]] = None,
+        before_date: Optional[Union[datetime, str]] = None,
+        client: Optional[Client] = None) -> Tuple[List[Tweet], dict]:
     """Pagination goes from most recent to oldest tweet.
     API only gives access to the last 3200 tweets of the user.
     """
 
     pagination_token = None
     tweets = []
-    i = 0
+    includes = {'users': [], 'tweets': []}
     while True:
         response = _query_tweets(
             user_id,
@@ -97,22 +91,23 @@ def _query_tweets_paginated(user_id: Union[int, str],
             pagination_token=pagination_token,
             client=client
         )
-        i += 1
         response_tweets = response.data
         if not response_tweets:
             break
+        includes['users'].extend(response.includes.get('users', []))
+        includes['tweets'].extend(response.includes.get('tweets', []))
         tweets.extend(response_tweets)
         pagination_token = response.meta.get('next_token')
         if not pagination_token:
             break
-    return tweets
+    return tweets, includes
 
 
-def get_user_tweets(*args, **kwargs) -> List[Tweet]:
+def get_user_tweets(*args, **kwargs) -> Tuple[List[Tweet], dict]:
     return _query_tweets_paginated(*args, **kwargs)
 
 
 def get_all_available_user_tweets(
         user_id: Union[int, str],
-        client: Optional[Client] = None) -> List[Tweet]:
+        client: Optional[Client] = None) -> Tuple[List[Tweet], dict]:
     return _query_tweets_paginated(user_id, client=client)

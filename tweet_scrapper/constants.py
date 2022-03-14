@@ -12,7 +12,7 @@ DATA_DIR = os.path.join(
 
 CANDIDATES_LIST_CSV = os.path.join(DATA_DIR, 'candidates.csv')
 
-TWEETS_DIR = os.path.join(DATA_DIR, 'tweets')
+TWEETS_DIR = os.path.join(DATA_DIR, 'scrapped_tweets')
 
 LAST_UPDATE_FILE = os.path.join(DATA_DIR, 'last_update.txt')
 

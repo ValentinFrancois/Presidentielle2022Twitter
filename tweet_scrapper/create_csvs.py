@@ -8,13 +8,32 @@ from tweet_scrapper.constants import (CANDIDATES_USERNAMES,
                                       CANDIDATES_TWEET_CSVS,
                                       get_last_update_timestamp,
                                       update_last_update_timestamp)
-from tweet_scrapper.tweet import get_tweet_type
+from tweet_scrapper.parse_tweet import (get_tweet_type,
+                                        get_referenced_tweet_and_user,
+                                        TweetType)
 from tweet_scrapper.user_tweets import (get_user_tweets,
                                         get_candidates_user_ids)
 
 
-TWEET_CSV_HEADER = ['username', 'id', 'datetime', 'type', 'text']
-_TWEET_CSV_HEADER_DTYPES = [str, int, str, str, str]
+TWEET_CSV_HEADER = [
+    'username', 'id', 'datetime', 'type', 'text',
+    'has_referenced_tweet', 'referenced_tweet_found',
+    'referenced_tweet_id', 'referenced_tweet_text',
+    'referenced_tweet_datetime',
+    'referenced_tweet_author_id', 'referenced_tweet_author_name',
+    'referenced_tweet_author_username'
+]
+
+_TWEET_CSV_HEADER_DTYPES = [str, str, str, str, str,
+                            bool, bool,
+                            str, str,
+                            str,
+                            str, str,
+                            str]
+
+if len(TWEET_CSV_HEADER) != len(_TWEET_CSV_HEADER_DTYPES):
+    raise ValueError('tweet headers & types lengths do not match')
+
 TWEET_CSV_HEADER_DTYPES = {col: dtype for (col, dtype)
                            in zip(TWEET_CSV_HEADER, _TWEET_CSV_HEADER_DTYPES)}
 
@@ -22,7 +41,7 @@ TWEET_CSV_HEADER_DTYPES = {col: dtype for (col, dtype)
 CANDIDATES_USER_IDS = get_candidates_user_ids()
 
 
-def _merge_tweet_dfs(dfs: List[pd.DataFrame]) -> pd.DataFrame:
+def merge_tweet_dfs(dfs: List[pd.DataFrame]) -> pd.DataFrame:
     concatenated = pd.concat(dfs, ignore_index=True)
     concatenated.sort_values(by='datetime', inplace=True, ascending=False)
     filtered = concatenated.drop_duplicates(subset='id', keep='first')
@@ -44,21 +63,50 @@ def update_candidate_csv(username: str,
                            in TWEET_CSV_HEADER_DTYPES.items()})
         last_update_timestamp = None
 
-    tweets = get_user_tweets(user_id, after_date=last_update_timestamp)
+    tweets, includes = get_user_tweets(user_id,
+                                       after_date=last_update_timestamp)
     print(f'fetched {len(tweets)} new tweets')
 
     if tweets:
-        new_df = pd.DataFrame(
-            data=[{
+        data = []
+        for tweet in tweets:
+            tweet_type, referenced_tweet_id = get_tweet_type(tweet)
+            referenced_tweet, user = None, None
+            not_found = False
+            if referenced_tweet_id:
+                try:
+                    referenced_tweet, user = get_referenced_tweet_and_user(
+                        referenced_tweet_id, includes)
+                except ValueError:
+                    print(f'referenced tweet {referenced_tweet_id} not found '
+                          f'for tweet {tweet.id} ({tweet_type.value}) - '
+                          f'text: {tweet.text}')
+                    not_found = True
+            tweet_row = {
                 'username': username,
-                'id': tweet.id,
+                'id': str(tweet.id),
                 'datetime': tweet.created_at,
                 'text': tweet.text,
-                'type': get_tweet_type(tweet).value
-            } for tweet in tweets]
-        ).astype(TWEET_CSV_HEADER_DTYPES)
+                'type': tweet_type.value,
+                'has_referenced_tweet': tweet_type != TweetType.NORMAL,
+                'referenced_tweet_found': (referenced_tweet_id
+                                           and not not_found),
+                'referenced_tweet_id': (str(referenced_tweet.id)
+                                        if referenced_tweet else ''),
+                'referenced_tweet_text': (referenced_tweet.text
+                                          if referenced_tweet else ''),
+                'referenced_tweet_datetime': (referenced_tweet.created_at
+                                              if referenced_tweet else ''),
+                'referenced_tweet_author_id': str(user.id) if user else '',
+                'referenced_tweet_author_name': user.name if user else '',
+                'referenced_tweet_author_username': (user.username
+                                                     if user else ''),
+            }
+            data.append(tweet_row)
+        new_df = pd.DataFrame(data).astype(TWEET_CSV_HEADER_DTYPES,
+                                           errors='ignore')
 
-        merged_df = _merge_tweet_dfs([df, new_df])
+        merged_df = merge_tweet_dfs([df, new_df])
 
         merged_df.to_csv(CANDIDATES_TWEET_CSVS[username],
                          index=False,

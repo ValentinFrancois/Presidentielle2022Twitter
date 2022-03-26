@@ -1,4 +1,4 @@
-from typing import Optional, Tuple, List
+from typing import Optional, Tuple
 from enum import Enum
 
 from tweepy import Tweet, ReferencedTweet, User
@@ -45,11 +45,3 @@ def get_referenced_tweet_and_user(referenced_tweet_id: int,
         raise ValueError()
 
     return referenced_tweet, user
-
-
-def filter_out_replies_and_retweets(tweets: List[Tweet]) -> List[Tweet]:
-    filtered_tweets = [
-        tweet for tweet in tweets
-        if get_tweet_type(tweet) in {TweetType.NORMAL, TweetType.QUOTING}
-    ]
-    return filtered_tweets

@@ -121,7 +121,3 @@ def do_update():
         update_candidate_csv(username,
                              last_update_timestamp=last_update_timestamp)
     update_last_update_timestamp()
-
-
-if __name__ == '__main__':
-    do_update()

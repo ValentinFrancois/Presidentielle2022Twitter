@@ -3,7 +3,7 @@ from typing import Set
 import os
 import pandas as pd
 
-from dates import get_date_now
+from tweet_scrapper.dates import get_date_now
 
 
 DATA_DIR = os.path.join(

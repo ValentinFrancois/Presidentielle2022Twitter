@@ -19,5 +19,6 @@ def get_date_now() -> str:
 
 
 if __name__ == '__main__':
+    """Check that it works"""
     print(get_date(2022))
     print(get_date_now())

@@ -8,8 +8,8 @@ from tweet_scrapper.constants import CANDIDATES_USERNAMES
 from tweet_scrapper.tweets import GET_TWEET_ARGS
 
 
-def get_user_id(username: str,
-                client: Optional[Client] = None) -> int:
+def _get_user_id(username: str,
+                 client: Optional[Client] = None) -> int:
     """Max 100 usernames in the list"""
     if not client:
         client = get_client()
@@ -17,8 +17,8 @@ def get_user_id(username: str,
     return response.data.id
 
 
-def get_user_ids(usernames: Iterable[str],
-                 client: Optional[Client] = None) -> Dict[str, int]:
+def _get_user_ids(usernames: Iterable[str],
+                  client: Optional[Client] = None) -> Dict[str, int]:
     """Max 100 usernames in the list"""
     if not client:
         client = get_client()
@@ -32,7 +32,7 @@ def get_user_ids(usernames: Iterable[str],
 def get_candidates_user_ids(client: Optional[Client] = None) -> Dict[str, int]:
     usernames = [username.replace('@', '')
                  for username in CANDIDATES_USERNAMES]
-    user_ids = get_user_ids(usernames, client)
+    user_ids = _get_user_ids(usernames, client)
     return user_ids
 
 
@@ -103,11 +103,26 @@ def _query_tweets_paginated(
     return tweets, includes
 
 
-def get_user_tweets(*args, **kwargs) -> Tuple[List[Tweet], dict]:
-    return _query_tweets_paginated(*args, **kwargs)
+def get_user_tweets(
+        user_id: Union[int, str],
+        after_tweet_id: Optional[Union[int, str]] = None,
+        after_date: Optional[Union[datetime, str]] = None,
+        before_tweet_id: Optional[Union[int, str]] = None,
+        before_date: Optional[Union[datetime, str]] = None,
+        client: Optional[Client] = None) -> Tuple[List[Tweet], dict]:
+    """Gets tweets of a specific user with optional chronological filtering"""
+    return _query_tweets_paginated(
+        user_id,
+        after_tweet_id=after_tweet_id,
+        after_date=after_date,
+        before_tweet_id=before_tweet_id,
+        before_date=before_date,
+        client=client,
+    )
 
 
 def get_all_available_user_tweets(
         user_id: Union[int, str],
         client: Optional[Client] = None) -> Tuple[List[Tweet], dict]:
+    """Gets all the available tweets of a user, i.e. the ~3200 latest tweets"""
     return _query_tweets_paginated(user_id, client=client)

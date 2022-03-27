@@ -1,9 +1,8 @@
-from typing import Optional, Union, List, Tuple
+from typing import List, Optional, Tuple, Union
 
 from tweepy import Client, Response, Tweet
 
 from tweet_scrapper.auth import get_client
-
 
 # minimal fields in response:
 GET_TWEET_ARGS = dict(

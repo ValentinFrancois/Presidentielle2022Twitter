@@ -1,10 +1,9 @@
+import os
 from typing import Set
 
-import os
 import pandas as pd
 
 from tweet_scrapper.dates import get_date_now
-
 
 DATA_DIR = os.path.join(
     os.path.dirname(os.path.dirname(os.path.realpath(__file__))),

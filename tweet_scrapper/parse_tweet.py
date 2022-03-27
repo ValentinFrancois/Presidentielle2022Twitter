@@ -1,7 +1,7 @@
-from typing import Optional, Tuple
 from enum import Enum
+from typing import Optional, Tuple
 
-from tweepy import Tweet, ReferencedTweet, User
+from tweepy import ReferencedTweet, Tweet, User
 
 
 class TweetType(Enum):

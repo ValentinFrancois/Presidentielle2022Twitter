@@ -1,19 +1,17 @@
+import csv
+import os
 from typing import List
 
-import os
 import pandas as pd
-import csv
 
-from tweet_scrapper.constants import (CANDIDATES_USERNAMES,
-                                      CANDIDATES_TWEET_CSVS,
+from tweet_scrapper.constants import (CANDIDATES_TWEET_CSVS,
+                                      CANDIDATES_USERNAMES,
                                       get_last_update_timestamp,
                                       update_last_update_timestamp)
-from tweet_scrapper.parse_tweet import (get_tweet_type,
+from tweet_scrapper.parse_tweet import (TweetType,
                                         get_referenced_tweet_and_user,
-                                        TweetType)
-from tweet_scrapper.user_tweets import (get_user_tweets,
-                                        get_candidates_user_ids)
-
+                                        get_tweet_type)
+from tweet_scrapper.user_tweets import get_candidates_user_ids, get_user_tweets
 
 TWEET_CSV_HEADER = [
     'username', 'id', 'datetime', 'type', 'text',

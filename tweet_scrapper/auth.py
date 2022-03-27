@@ -1,7 +1,7 @@
 import os
+
 from dotenv import load_dotenv
 from tweepy import Client
-
 
 load_dotenv()
 

@@ -1,7 +1,7 @@
-from typing import Optional, Union, List, Dict, Iterable, Tuple
-
 from datetime import datetime
-from tweepy import Client, Tweet, Response
+from typing import Dict, Iterable, List, Optional, Tuple, Union
+
+from tweepy import Client, Response, Tweet
 
 from tweet_scrapper.auth import get_client
 from tweet_scrapper.constants import CANDIDATES_USERNAMES

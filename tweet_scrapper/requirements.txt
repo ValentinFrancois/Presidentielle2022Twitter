@@ -2,3 +2,5 @@ tweepy
 pandas
 python-dotenv
 pytz
+BeautifulSoup
+nltk

@@ -1,4 +1,534 @@
 "username","id","datetime","type","text","has_referenced_tweet","referenced_tweet_found","referenced_tweet_id","referenced_tweet_text","referenced_tweet_datetime","referenced_tweet_author_id","referenced_tweet_author_name","referenced_tweet_author_username"
+"Anne_Hidalgo","1510627083172646912","2022-04-03 14:35:37+00:00","normal","Ce que nous avons fait, nous pouvons le refaire ensemble ! Les grandes idées ne meurent jamais, les grands idéaux sont indestructibles. Il nous reste sept jours pour construire la nation de nos rêves. Sept jours pour changer d'avenir !
+
+#Hidalgo2022 https://t.co/ms9edJd7yt",False,False,"","","","","",""
+"Anne_Hidalgo","1510626337102389249","2022-04-03 14:32:39+00:00","normal","Qui a porté dans notre pays toutes ces conquêtes sociales ? Des congés payés à l'abolition de la peine de mort, en passant par les 35 heures et la décentralisation ? C'est nous ! C'est la gauche républicaine !
+
+#Hidalgo2022 https://t.co/NrLcSvTlzU",False,False,"","","","","",""
+"Anne_Hidalgo","1510625993849024512","2022-04-03 14:31:17+00:00","reply","Nous créerons par la réforme patiente et opiniâtre, la République laïque, sociale, écologique et européenne à laquelle nous aspirons toutes et tous !
+
+#Hidalgo2022 https://t.co/S1aaFJbXJV",True,True,"1510623661073571844","J’organiserai le retour de l’hôpital au cœur du système de santé, où les gens passeront avant l’argent, où les objectifs de santé et la prévention remplaceront les carcans comptables.
+
+#Hidalgo2022 https://t.co/i39TOLiCE4","2022-04-03 14:22:01+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510625795928121344","2022-04-03 14:30:30+00:00","normal","La France, c’est un mouvement, un progrès humain et une conquête humaniste, c’est un message de fraternité et d’émancipation. Loin de la nation anxieuse, repliée et intolérante que nous promet l’extrême-droite. Loin aussi, de la start-up nation obsédée par l'argent.
+
+#Hidalgo2022 https://t.co/up7UNzcm7a",False,False,"","","","","",""
+"Anne_Hidalgo","1510624341280669696","2022-04-03 14:24:43+00:00","normal","Mon quinquennat sera le grand rendez-vous de la jeunesse et des artistes. Je défendrai ardemment la liberté des artistes et la création sous toutes ces formes. Je lutterai pour protéger le pluralisme contre la concentration abusive de nos médias.
+
+#Hidalgo2022 https://t.co/XFgRWYzXdg",False,False,"","","","","",""
+"Anne_Hidalgo","1510623661073571844","2022-04-03 14:22:01+00:00","reply","J’organiserai le retour de l’hôpital au cœur du système de santé, où les gens passeront avant l’argent, où les objectifs de santé et la prévention remplaceront les carcans comptables.
+
+#Hidalgo2022 https://t.co/i39TOLiCE4",True,True,"1510623283296845824","Je revaloriserai les salaires des enseignants, en débutant par les professeurs des écoles qui commenceront désormais, comme les cadres, à 2 350 euros net !
+
+#Hidalgo2022 https://t.co/000sKyO8vi","2022-04-03 14:20:31+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510623283296845824","2022-04-03 14:20:31+00:00","reply","Je revaloriserai les salaires des enseignants, en débutant par les professeurs des écoles qui commenceront désormais, comme les cadres, à 2 350 euros net !
+
+#Hidalgo2022 https://t.co/000sKyO8vi",True,True,"1510622688259227649","Nous préservons l’âge de la retraite, ce sera 62 ans, pas une année de plus ! Et nous permettrons le départ avant, à 59, 60 ou 61 ans, pour ceux qui ont exercé des métiers pénibles.
+
+#Hidalgo2022 https://t.co/9cpQuAwZcP","2022-04-03 14:18:09+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510622688259227649","2022-04-03 14:18:09+00:00","reply","Nous préservons l’âge de la retraite, ce sera 62 ans, pas une année de plus ! Et nous permettrons le départ avant, à 59, 60 ou 61 ans, pour ceux qui ont exercé des métiers pénibles.
+
+#Hidalgo2022 https://t.co/9cpQuAwZcP",True,True,"1510622056873963528","Je bloquerai les prix de l’énergie, je relèverai immédiatement le point d’indice et les retraites de 3%. Je demanderai aux partenaires sociaux d’ouvrir des négociations salariales et j’amorcerai le mouvement par une hausse du SMIC de 15 %.
+
+#Hidalgo2022 https://t.co/yMfMZK6NKF","2022-04-03 14:15:39+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510622320871813123","2022-04-03 14:16:41+00:00","normal","Je le dis depuis le début de ma campagne : nous devons agir pour le pouvoir d'achat des Français ! Ce sera ma priorité au lendemain de l'élection et pendant mon quinquennat. Je revaloriserai notamment les salaires et les pensions, et bloquerai les prix de l'énergie.
+
+#Hidalgo2022 https://t.co/SZPKNk7hrt",False,False,"","","","","",""
+"Anne_Hidalgo","1510622056873963528","2022-04-03 14:15:39+00:00","reply","Je bloquerai les prix de l’énergie, je relèverai immédiatement le point d’indice et les retraites de 3%. Je demanderai aux partenaires sociaux d’ouvrir des négociations salariales et j’amorcerai le mouvement par une hausse du SMIC de 15 %.
+
+#Hidalgo2022 https://t.co/yMfMZK6NKF",True,True,"1510621598411370507","Changer d’avenir, c’est affronter, dans la justice, la grande affaire du siècle, le changement climatique.
+J’instaurerai un impôt sur la fortune dédié à la transition énergétique, en mettant à contribution les plus nantis, qui sont aussi les premiers pollueurs.
+
+#Hidalgo2022 https://t.co/fQe0Bs1pdu","2022-04-03 14:13:49+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510621598411370507","2022-04-03 14:13:49+00:00","reply","Changer d’avenir, c’est affronter, dans la justice, la grande affaire du siècle, le changement climatique.
+J’instaurerai un impôt sur la fortune dédié à la transition énergétique, en mettant à contribution les plus nantis, qui sont aussi les premiers pollueurs.
+
+#Hidalgo2022 https://t.co/fQe0Bs1pdu",True,True,"1510620983312404489","Je propose une loi d’urgence pour l’avenir des jeunes : gratuité des transports du quotidien pour les moins de 26 ans, suppression des droits d'inscriptions, repas du CROUS à 1 euro et revalorisation des bourses et des allocations logement de 10 %.
+ 
+#Hidalgo2022 https://t.co/pwF2Kv7E5D","2022-04-03 14:11:23+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510621040124248074","2022-04-03 14:11:36+00:00","normal","Je veux changer l'avenir de nos jeunes. Dès mon élection, j'améliorerai leur quotidien. Je leur donnerai les moyens de leur émancipation et de leur autonomie. Je mettrai un terme à ce qui entrave leur avenir et les condamne à l'anxiété et au doute.
+
+#Hidalgo2022 https://t.co/0Oceeg0Zhk",False,False,"","","","","",""
+"Anne_Hidalgo","1510620983312404489","2022-04-03 14:11:23+00:00","reply","Je propose une loi d’urgence pour l’avenir des jeunes : gratuité des transports du quotidien pour les moins de 26 ans, suppression des droits d'inscriptions, repas du CROUS à 1 euro et revalorisation des bourses et des allocations logement de 10 %.
+ 
+#Hidalgo2022 https://t.co/pwF2Kv7E5D",True,True,"1510620434831663107","La première tâche que je m’assigne, c’est de libérer toutes ces énergies, tous ces talents, toute la soif de vivre qui anime notre jeunesse, qui est si souvent malheureusement bridée, étouffée, empêchée, par des conditions matérielles d’existence si dures.
+
+#Hidalgo2022 https://t.co/erIk28Sy4a","2022-04-03 14:09:12+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510620434831663107","2022-04-03 14:09:12+00:00","reply","La première tâche que je m’assigne, c’est de libérer toutes ces énergies, tous ces talents, toute la soif de vivre qui anime notre jeunesse, qui est si souvent malheureusement bridée, étouffée, empêchée, par des conditions matérielles d’existence si dures.
+
+#Hidalgo2022 https://t.co/erIk28Sy4a",True,True,"1510620041288593413","Je vous propose de choisir une société où l’on prend soin de l’autre, une société où l’intelligence est honorée, où la conscience guide la science, où chacune et chacun, quelle que soit sa naissance, a les mêmes chances de choisir sa vie.
+
+#Hidalgo2022 https://t.co/u9SGp35oJY","2022-04-03 14:07:38+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510620041288593413","2022-04-03 14:07:38+00:00","reply","Je vous propose de choisir une société où l’on prend soin de l’autre, une société où l’intelligence est honorée, où la conscience guide la science, où chacune et chacun, quelle que soit sa naissance, a les mêmes chances de choisir sa vie.
+
+#Hidalgo2022 https://t.co/u9SGp35oJY",True,True,"1510618778895364103","Donnez-vous la chance de faire revivre la démocratie française, si malmenée depuis cinq ans et redonnez toute sa force au projet républicain.
+
+#Hidalgo2022 https://t.co/44kfX1h3il","2022-04-03 14:02:37+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510619878973136898","2022-04-03 14:06:59+00:00","normal","Électeur de gauche, vous qui hésitez encore pour qui voter, ou même à aller voter, posez-vous une question : quelle France voulez-vous ? 
+
+C’est la seule question qui vaille. Vous n’allez pas seulement voter pour une Présidente, mais faire un choix de société.
+
+#Hidalgo2022 https://t.co/wDWJUX97Z3",False,False,"","","","","",""
+"Anne_Hidalgo","1510618778895364103","2022-04-03 14:02:37+00:00","reply","Donnez-vous la chance de faire revivre la démocratie française, si malmenée depuis cinq ans et redonnez toute sa force au projet républicain.
+
+#Hidalgo2022 https://t.co/44kfX1h3il",True,True,"1510618018941919236","Emmanuel Macron voulait dépasser la gauche et la droite, mais il pratique le dépassement de la droite par la droite !
+
+#Hidalgo2022 https://t.co/FQR3u3GgWU","2022-04-03 13:59:36+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510618018941919236","2022-04-03 13:59:36+00:00","reply","Emmanuel Macron voulait dépasser la gauche et la droite, mais il pratique le dépassement de la droite par la droite !
+
+#Hidalgo2022 https://t.co/FQR3u3GgWU",True,True,"1510617424164491279","Vous n’êtes pas condamnés à choisir entre la droite et l’extrême droite ! Votez selon votre cœur et la raison de vos convictions !
+
+#Hidalgo2022 https://t.co/pAPGskAV8J","2022-04-03 13:57:14+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510617970858471424","2022-04-03 13:59:24+00:00","normal","Emmanuel Macron voulait dépasser la gauche et la droite, mais il ne fait que dépasser la droite par la droite ! Qui a supprimé les critères de pénibilité, éliminé les emplois aidés, plafonné les indemnités aux prud'hommes, réduit scandaleusement les APL ? C'est lui.
+
+#Hidalgo2022 https://t.co/eXjubOO8oD",False,False,"","","","","",""
+"Anne_Hidalgo","1510617424164491279","2022-04-03 13:57:14+00:00","reply","Vous n’êtes pas condamnés à choisir entre la droite et l’extrême droite ! Votez selon votre cœur et la raison de vos convictions !
+
+#Hidalgo2022 https://t.co/pAPGskAV8J",True,True,"1510616763591020544","Nous voulons que non seulement la République reste la République, mais nous voulons qu’elle tienne mieux sa promesse de liberté, d’égalité et de fraternité, qu’elle soit plus juste et qu’elle traque sans relâche les inégalités et les discriminations qui la minent.
+
+#Hidalgo2022 https://t.co/Lvn5FdRDES","2022-04-03 13:54:36+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510616763591020544","2022-04-03 13:54:36+00:00","reply","Nous voulons que non seulement la République reste la République, mais nous voulons qu’elle tienne mieux sa promesse de liberté, d’égalité et de fraternité, qu’elle soit plus juste et qu’elle traque sans relâche les inégalités et les discriminations qui la minent.
+
+#Hidalgo2022 https://t.co/Lvn5FdRDES",True,True,"1510616270928064520","J’ai l’habitude d’affronter les difficultés. Jamais rien ne m’a été donné facilement, de ma naissance en Espagne, au quartier de la Duchère à Lyon, puis dans mes études et mon travail d’inspectrice du travail pour défendre les droits des salariés.
+
+#Hidalgo2022 https://t.co/RQ76KKTMKJ","2022-04-03 13:52:39+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510616270928064520","2022-04-03 13:52:39+00:00","reply","J’ai l’habitude d’affronter les difficultés. Jamais rien ne m’a été donné facilement, de ma naissance en Espagne, au quartier de la Duchère à Lyon, puis dans mes études et mon travail d’inspectrice du travail pour défendre les droits des salariés.
+
+#Hidalgo2022 https://t.co/RQ76KKTMKJ",True,True,"1510615271073095682","Nous devons renforcer encore les sanctions économiques qui peuvent affaiblir l’offensive du dictateur, le ramener à la raison et à la négociation, et donc mettre fin très rapidement aux importations de gaz.
+
+#Hidalgo2022 https://t.co/7vPKMkmiX2","2022-04-03 13:48:41+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510615964735488004","2022-04-03 13:51:26+00:00","normal","C'est la vocation de la France que de lutter avec énergie et réalisme pour la liberté et la paix en Europe ! Je revendique cet héritage et je veux poursuivre cette lutte historique !
+
+#Hidalgo2022 https://t.co/9J2UKEkAEs",False,False,"","","","","",""
+"Anne_Hidalgo","1510615271073095682","2022-04-03 13:48:41+00:00","reply","Nous devons renforcer encore les sanctions économiques qui peuvent affaiblir l’offensive du dictateur, le ramener à la raison et à la négociation, et donc mettre fin très rapidement aux importations de gaz.
+
+#Hidalgo2022 https://t.co/7vPKMkmiX2",True,True,"1510613974160707590","Alors je le dis aujourd’hui haut et fort : quelle fierté, quel immense bonheur d’être la maire de Paris, maire de cette ville pas tout à fait comme les autres, de cette ville qui est une langue universelle aimée, reconnue et respectée partout dans le monde.
+
+#Hidalgo2022 https://t.co/VDlMqlTNlB","2022-04-03 13:43:31+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510614068729724931","2022-04-03 13:43:54+00:00","normal","En évoquant Aimé Césaire, je veux penser à celui qui lui fut si proche, mon ami @SergeLetchimy, président de la @CTM_Martinique, dont le soutien m'honore.
+
+À travers lui, je veux penser aussi aux outre-mers, qui portent notre avenir.
+
+#Hidalgo2022 https://t.co/d5EJTmbQ1a",False,False,"","","","","",""
+"Anne_Hidalgo","1510613974160707590","2022-04-03 13:43:31+00:00","reply","Alors je le dis aujourd’hui haut et fort : quelle fierté, quel immense bonheur d’être la maire de Paris, maire de cette ville pas tout à fait comme les autres, de cette ville qui est une langue universelle aimée, reconnue et respectée partout dans le monde.
+
+#Hidalgo2022 https://t.co/VDlMqlTNlB",True,True,"1510612888599379976","La gauche, c’est la justice conquise pas à pas. La gauche, c’est le respect dû à chacune et à chacun. La gauche, c’est la liberté, défendue pied à pied en toutes circonstances.
+ 
+En un mot, mes amis, la gauche, c’est nous !
+ 
+#Hidalgo2022 https://t.co/w4hVJeGZWm","2022-04-03 13:39:13+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510613226702188555","2022-04-03 13:40:33+00:00","normal","Ensemble, nous pouvons faire mentir les sondages et leurs commentateurs zélés qui méprisent le débat démocratique. Rien n'est jamais joué tant que le vote n'a pas eu lieu !
+
+#Hidalgo2022 https://t.co/FMbmcywg4l",False,False,"","","","","",""
+"Anne_Hidalgo","1510612888599379976","2022-04-03 13:39:13+00:00","reply","La gauche, c’est la justice conquise pas à pas. La gauche, c’est le respect dû à chacune et à chacun. La gauche, c’est la liberté, défendue pied à pied en toutes circonstances.
+ 
+En un mot, mes amis, la gauche, c’est nous !
+ 
+#Hidalgo2022 https://t.co/w4hVJeGZWm",True,True,"1510611835829035019","La gauche, c’est la certitude que l’action collective est possible, c’est la foi dans la solidarité qui nous rend plus forts, c’est l’attention aux plus faibles, aux exploités, aux exclus et aux déracinés. C’est la certitude que nous dépendons les uns des autres.
+
+#Hidalgo2022 https://t.co/hw8pFr7biW","2022-04-03 13:35:02+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1510611835829035019","2022-04-03 13:35:02+00:00","normal","La gauche, c’est la certitude que l’action collective est possible, c’est la foi dans la solidarité qui nous rend plus forts, c’est l’attention aux plus faibles, aux exploités, aux exclus et aux déracinés. C’est la certitude que nous dépendons les uns des autres.
+
+#Hidalgo2022 https://t.co/hw8pFr7biW",False,False,"","","","","",""
+"Anne_Hidalgo","1510607314423848968","2022-04-03 13:17:04+00:00","normal","🔴 EN DIRECT | Suivez-moi en live pour mon meeting de Paris au Cirque d’Hiver ! #Hidalgo2022  https://t.co/pgeYlRlIYY",False,False,"","","","","",""
+"Anne_Hidalgo","1510566300770353152","2022-04-03 10:34:05+00:00","normal","Je propose une loi d’urgence pour l’avenir des jeunes. 
+
+Je la financerai avec un impôt élargi sur les grandes fortunes, une taxation des entreprises ayant fait d'importants bénéfices pendant la crise et en mettant un coût d'arrêt à l'optimisation fiscale.
+https://t.co/vI6BCiMyYI https://t.co/CQhlTyjCrv",False,False,"","","","","",""
+"Anne_Hidalgo","1510523781185421313","2022-04-03 07:45:08+00:00","normal","Je veux dire à nos jeunes que nous avons confiance en vous et que nous voulons votre réussite. L’algorithme de Parcoursup, l’argent ou les déterminismes sociaux ne doivent pas décider de votre vie à votre place !
+
+Ma loi d'urgence pour votre avenir : https://t.co/vI6BCiMyYI https://t.co/Yw0z03hri8",False,False,"","","","","",""
+"Anne_Hidalgo","1510510671812833283","2022-04-03 06:53:02+00:00","normal","Depuis les Champs-Élysées, top départ pour le @parismarathon 2022 !
+Bon courage aux 45 000 coureuses et coureurs qui s'élancent pour cette course mythique, avec une pensée particulière pour les athlètes handisport, debout ou en fauteuil. https://t.co/gHmeB2MS5b",False,False,"","","","","",""
+"Anne_Hidalgo","1510367528077381635","2022-04-02 21:24:14+00:00","normal","Nos jeunes subissent de plein fouet les crises successives, il est de notre devoir d'agir ! 
+
+Je refuse de faire reposer sur leurs épaules le coût des crises que nous traversons. Je propose une loi d'urgence pour l’avenir de la jeunesse de notre pays.
+
+https://t.co/vI6BCiMyYI",False,False,"","","","","",""
+"Anne_Hidalgo","1510343732926816260","2022-04-02 19:49:41+00:00","retweet","RT @luccarvounas: Le 10 avril je vote pour le projet #socialiste, #écologiste et #féministe. Je vote @Anne_Hidalgo ! @partisocialiste @alfo…",True,True,"1509820368642523136","Le 10 avril je vote pour le projet #socialiste, #écologiste et #féministe. Je vote @Anne_Hidalgo ! @partisocialiste @alfortville_PS @PSValdeMarne #Présidentielle2022 https://t.co/KhrKoqspFG","2022-04-01 09:10:01+00:00","1006325990","Luc Carvounas","luccarvounas"
+"Anne_Hidalgo","1510315360347688960","2022-04-02 17:56:56+00:00","retweet","RT @HeleneGeoffroy: Chers vaudaises, chers vaudais,
+
+Dimanche 10 avril prochain se tiendra le 1er tour de l'élection présidentielle. Social…",True,True,"1510195487751741441","Chers vaudaises, chers vaudais,
+
+Dimanche 10 avril prochain se tiendra le 1er tour de l'élection présidentielle. Socialiste depuis plus de 20 ans, je voterai @Anne_Hidalgo.
+
+Retrouvez ici la lettre que je vous adresse 👇#Hidalgo2022 #Jevotehidalgo https://t.co/TTHd47AhXI","2022-04-02 10:00:37+00:00","1513606236","Hélène Geoffroy","HeleneGeoffroy"
+"Anne_Hidalgo","1510228500426461192","2022-04-02 12:11:47+00:00","normal","Je veux m'engager pour une détection plus précoce de l'autisme, ainsi que pour un bien meilleur accompagnement des personnes autistes, comme de leur famille. Je mettrai tout en œuvre pour aller vers une prise charge par l'État à 100 %.
+
+#JournéeMondialeDeLAutisme https://t.co/Q058wIASCk",False,False,"","","","","",""
+"Anne_Hidalgo","1510200290808680450","2022-04-02 10:19:42+00:00","normal","Témoignages bouleversants des députées ukrainiennes @lesiavasylenko et @Aly_shkrum, reçues ce matin à l’Hôtel de Ville avec @OmelchenkoVadym. J'ai réaffirmé l'engagement de Paris pour l'Ukraine et rappelé mon soutien pour les sanctions prises à l'égard de la Russie. https://t.co/fQJtuejhMR",False,False,"","","","","",""
+"Anne_Hidalgo","1510183686091780099","2022-04-02 09:13:43+00:00","normal","À nos concitoyennes et à nos concitoyens de confession musulmane, je souhaite un bon début de mois de jeûne du #Ramadan.",False,False,"","","","","",""
+"Anne_Hidalgo","1510175492628004864","2022-04-02 08:41:09+00:00","normal","Ma première mesure concernera la juste rémunération du travail. J'augmenterai le SMIC de 200 euros net par mois et lancerai une grande négociation des salaires. Je m'engage à ce que le travail paie !
+
+#RTLMatin https://t.co/FhjCDl2IIX",False,False,"","","","","",""
+"Anne_Hidalgo","1510174155542519808","2022-04-02 08:35:51+00:00","normal","L'argent avant les gens, c'est la philosophie d'Emmanuel Macron. Ce n'est pas la mienne !
+
+Pendant cinq ans, l'école a été malmenée et l'hôpital a été considéré comme une entreprise, alors que ce sont les deux grands services publics qui font tenir notre société. https://t.co/3GeYi6AqA5",False,False,"","","","","",""
+"Anne_Hidalgo","1510172719597424640","2022-04-02 08:30:08+00:00","normal","Emmanuel Macron ne connaît pas du tout la vie quotidienne de nos concitoyens. Il ne se préoccupe pas non plus du décrochage de nos classes moyennes et catégories populaires. Je le redis à celles et ceux qui ont pu en douter, Emmanuel Macron est bien de droite et de droite. https://t.co/dSxpzMBArc",False,False,"","","","","",""
+"Anne_Hidalgo","1510129533592215557","2022-04-02 05:38:32+00:00","retweet","RT @BeatriceBellay: Lan nuit kon la jouné nou pa ka finmin zyé nou 🎶🎵 !!!! 
+Dans la joie et la bonne humeur, on colle on colle en #Martiniq…",True,True,"1510096283872247808","Lan nuit kon la jouné nou pa ka finmin zyé nou 🎶🎵 !!!! 
+Dans la joie et la bonne humeur, on colle on colle en #Martinique C’est cela aussi le militantisme !! #OnNApasDheurePournosValeurs ✊✊ avec @Anne_Hidalgo jusqu’au bout ! https://t.co/hAd26G3tKX","2022-04-02 03:26:24+00:00","203398404","Béatrice BELLAY ♥️💚🖤","BeatriceBellay"
+"Anne_Hidalgo","1509957941331468294","2022-04-01 18:16:41+00:00","normal","🎙 Demain matin à 8h30, je serai l'invitée de @StphCarpentier1 et @BSportouch dans la matinale spéciale élection #Presidentielle2022 de @RTLFrance. #RTLMatin https://t.co/UDTBr9QyyP",False,False,"","","","","",""
+"Anne_Hidalgo","1509949525632372736","2022-04-01 17:43:15+00:00","retweet","RT @PatrickKanner: Présidentielle: Hidalgo appelle les socialistes à ne ""pas raser les murs"" https://t.co/17m744E53E",True,True,"1509949392366809092","Présidentielle: Hidalgo appelle les socialistes à ne ""pas raser les murs"" https://t.co/17m744E53E","2022-04-01 17:42:43+00:00","1172156371","Patrick Kanner","PatrickKanner"
+"Anne_Hidalgo","1509942619618619395","2022-04-01 17:15:48+00:00","retweet","RT @2022avecHidalgo: Merci aux 1⃣0⃣0⃣ élus d'Ille et Vilaine qui apportent leur soutien à notre candidate @Anne_Hidalgo dans cette dernière…",True,True,"1509942061734182917","Merci aux 1⃣0⃣0⃣ élus d'Ille et Vilaine qui apportent leur soutien à notre candidate @Anne_Hidalgo dans cette dernière ligne droite ! 
+#JeVoteHidalgo #Hidalgo2022
+
+https://t.co/kLi493bRYd","2022-04-01 17:13:35+00:00","1356612409822228480","2022 avec Hidalgo","2022avecHidalgo"
+"Anne_Hidalgo","1509939599971393537","2022-04-01 17:03:48+00:00","normal","Merci à @SergeLetchimy et au Parti progressiste martiniquais pour leur soutien qui me vont droit au cœur. 
+
+Serge est une grande figure morale et politique. Héritier d'Aimé Césaire, il porte cet humanisme, l'avenir de la Martinique et des outre-mers.
+
+https://t.co/kmWvaNE6Cg https://t.co/3puKGx1H2G",False,False,"","","","","",""
+"Anne_Hidalgo","1509937346938118145","2022-04-01 16:54:51+00:00","retweet","RT @PierreKanuty: Le Parti progressiste martiniquais, fondé par Aimé Césaire soutient @Anne_Hidalgo. Un choix fidèle à des convictions comm…",True,True,"1509917316926029833","Le Parti progressiste martiniquais, fondé par Aimé Césaire soutient @Anne_Hidalgo. Un choix fidèle à des convictions communes et une longue amitié politique. S'abstenir c'est laisser les autres décider à sa place alors que le danger de l'extrême droite est là ? Awa ! #outremer","2022-04-01 15:35:15+00:00","21302947","Pierre Kanuty","PierreKanuty"
+"Anne_Hidalgo","1509925187164254215","2022-04-01 16:06:32+00:00","normal","Nous devons aller vers le 100 % énergies renouvelables aussi vite que possible et accompagner les industriels dans cette transition par la recherche. À Saint-Nazaire avec @DavidSamzun, j'ai pu voir les éoliennes qui formeront le premier parc éolien en mer de France ! https://t.co/KeaZ6lqQX2",False,False,"","","","","",""
+"Anne_Hidalgo","1509919726776066049","2022-04-01 15:44:50+00:00","retweet","RT @Johanna_Rolland: A Saint-Nazaire avec @Anne_Hidalgo,  @DavidSamzun et @YVaugrenard. Découverte d'EOL, site dédié aux énergies marines r…",True,True,"1509918457567092746","A Saint-Nazaire avec @Anne_Hidalgo,  @DavidSamzun et @YVaugrenard. Découverte d'EOL, site dédié aux énergies marines renouvelables, et échanges sur l'installation progressive, à partir de lundi, du premier parc éolien en mer de France au large de St Nazaire #Hidalgo2022 https://t.co/w9XxldSjhQ","2022-04-01 15:39:47+00:00","786659233","Johanna Rolland","Johanna_Rolland"
+"Anne_Hidalgo","1509915535911313410","2022-04-01 15:28:11+00:00","retweet","RT @egregoire: Heureux de voir Ivan Fedorov, Maire de Melitopol, enfin libre. Son témoignage sur la situation en Ukraine ne restera pas vai…",True,True,"1509914478309167109","Heureux de voir Ivan Fedorov, Maire de Melitopol, enfin libre. Son témoignage sur la situation en Ukraine ne restera pas vain.  
+
+@Paris sera au côté du peuple ukrainien. Votre courage nous oblige. 
+
+#StandWithUkraine 🇺🇦 https://t.co/9KbgUrs8no","2022-04-01 15:23:59+00:00","18737885","Emmanuel Grégoire","egregoire"
+"Anne_Hidalgo","1509905227960496154","2022-04-01 14:47:13+00:00","normal","Merci à tous les acteurs de la solidarité et responsables associatifs nantais venus partager leurs inquiétudes et leur besoin de davantage de justice sociale. Nous avons en commun cette même conception du vivre-ensemble.
+
+Le 10 avril, nous aurons un choix de société à faire. https://t.co/OiEZ9boyhd",False,False,"","","","","",""
+"Anne_Hidalgo","1509874399553507328","2022-04-01 12:44:43+00:00","normal","Je veux te remercier @JeanMarcAyrault pour ton soutien et ta fidélité aux valeurs de notre famille de pensée qui agit au quotidien, partout en France. Tu incarnes ce socialisme qui sait transformer la réalité de nos concitoyens. https://t.co/LQx9V70YRo",False,False,"","","","","",""
+"Anne_Hidalgo","1509843918275371008","2022-04-01 10:43:36+00:00","normal","Arrivée ce matin à Nantes pour continuer d'échanger avec les Françaises et les Français sur leur quotidien et notamment les questions de solidarité. Merci @Johanna_Rolland pour ton accueil si chaleureux sur cette terre où la gauche a su transformer la vie des gens. https://t.co/LQpBqBmQot",False,False,"","","","","",""
+"Anne_Hidalgo","1509827783949795332","2022-04-01 09:39:29+00:00","retweet","RT @Johanna_Rolland: Invitée ce matin de @bleuloireocean   pour évoquer la visite aujourd'hui à Nantes et Saint-Nazaire de @Anne_Hidalgo po…",True,True,"1509825290473816079","Invitée ce matin de @bleuloireocean   pour évoquer la visite aujourd'hui à Nantes et Saint-Nazaire de @Anne_Hidalgo pour parler notamment de 2 sujets au cœur des préoccupations des Français : la précarité alimentaire et les énergies renouvelables. 
+https://t.co/xBwNUpXZbJ","2022-04-01 09:29:35+00:00","786659233","Johanna Rolland","Johanna_Rolland"
+"Anne_Hidalgo","1509825207808278540","2022-04-01 09:29:15+00:00","normal","Ce que je vois « en traversant la rue », c'est que les Français sont profondément choqués de la proposition d'Emmanuel Macron sur le #RSA. Cette annonce symbolise sa méconnaissance de l’action des travailleurs sociaux, des associations et des élus locaux.
+https://t.co/HjX2cvL9c0",False,False,"","","","","",""
+"Anne_Hidalgo","1509823659304796178","2022-04-01 09:23:06+00:00","normal","L’augmentation de l’inflation rend la situation urgente. J’augmenterai le SMIC de 15 % et lancerai une grande négociation sur les salaires. J'inscris mon projet dans la nécessaire réindustrialisation de notre pays.
+https://t.co/RRVZzwnAsw",False,False,"","","","","",""
+"Anne_Hidalgo","1509820777536929800","2022-04-01 09:11:39+00:00","normal","« Le courage, c'est d'aller à l'idéal et de comprendre le réel », cette citation de Jaurès me guide. Mes propositions s'appuient sur la vie quotidienne des Français. Ce programme, je l'ai construit avec mon équipe de France des maires afin qu'il prenne en compte nos territoires. https://t.co/gcuTnPQuFT",False,False,"","","","","",""
+"Anne_Hidalgo","1509802229536112642","2022-04-01 07:57:56+00:00","normal","Il faut avoir des racines pour construire un avenir tourné vers le bien-être de nos enfants, le renforcement de nos services publics et la protection de notre environnement. Je suis l'héritière de cette gauche républicaine des grandes conquêtes sociales. https://t.co/JdTqZlITng",False,False,"","","","","",""
+"Anne_Hidalgo","1509625327017996289","2022-03-31 20:15:00+00:00","normal","🎙 Demain matin à 8h30, je serai l’invitée de « L’interview politique » sur @LCI. #La26 https://t.co/bLm4lysnok",False,False,"","","","","",""
+"Anne_Hidalgo","1509609122781614082","2022-03-31 19:10:36+00:00","normal","Émouvante visite de l’Anneau de la Mémoire avec les noms des 580 000 soldats tombés sur le front du Nord-Pas-de-Calais lors de la Grande Guerre, sans distinction de nationalité. Il est de notre devoir de ne jamais oublier toutes ces vies sacrifiées. https://t.co/rNcP9bIasQ",False,False,"","","","","",""
+"Anne_Hidalgo","1509598145113698310","2022-03-31 18:26:59+00:00","normal","Réjane Dessailly m’a invitée chez elle à Liévin, dans sa maison qui vient d’être rénovée. Un logement plus agréable à vivre et qui consomme moins d'énergie qu'avant.
+
+Je mènerai un grand plan de rénovation énergétique, avec une nouveauté : aucun frais à avancer lors des travaux. https://t.co/yL9omoA0C5",False,False,"","","","","",""
+"Anne_Hidalgo","1509567892580360196","2022-03-31 16:26:46+00:00","retweet","RT @BernardJomier: Un jour, un candidat : Anne Hidalgo – Sortir de l’hôpital-entreprise - Actusoins actualité infirmière https://t.co/F6atn…",True,True,"1509540304600379403","Un jour, un candidat : Anne Hidalgo – Sortir de l’hôpital-entreprise - Actusoins actualité infirmière https://t.co/F6atn1CGwt","2022-03-31 14:37:09+00:00","485777791","Bernard Jomier","BernardJomier"
+"Anne_Hidalgo","1509566312053313539","2022-03-31 16:20:29+00:00","retweet","RT @PatrickKanner: La matinée avec les acteurs de la pêche de Boulogne-sur-Mer, l’après-midi dans le bassin minier : une riche journée sur…",True,True,"1509565066345127936","La matinée avec les acteurs de la pêche de Boulogne-sur-Mer, l’après-midi dans le bassin minier : une riche journée sur le terrain avec @Anne_Hidalgo, à la rencontre des habitants et des élus du Pas-de-Calais #Hidalgo2022 https://t.co/r2XJhzuR5B","2022-03-31 16:15:32+00:00","1172156371","Patrick Kanner","PatrickKanner"
+"Anne_Hidalgo","1509562233524731904","2022-03-31 16:04:17+00:00","normal","Merci à Laurent Duporge pour son accueil chaleureux à Liévin, lieu symbolique du bassin minier. Ancienne inspectrice du travail, je sais les conséquences du travail sur la vie des gens, surtout lorsqu’il est pénible. Présidente, j’agirai pour que le travail puisse payer. https://t.co/isjiDZwpcL",False,False,"","","","","",""
+"Anne_Hidalgo","1509517340391755786","2022-03-31 13:05:54+00:00","normal","Nous devons soutenir notre filière française de la pêche, durement touchée. Cela doit inclure les usines où je me suis rendue, qui font vivre ce secteur partout en France et au-delà. Merci à Grand frais et la société de transport et de logique Copromer pour leur accueil. https://t.co/zuYZ03dHGf",False,False,"","","","","",""
+"Anne_Hidalgo","1509466799829565440","2022-03-31 09:45:04+00:00","normal","À Boulogne-sur-Mer, j’ai échangé avec les représentants de la filière pêche. Ils subissent de plein fouet les conséquences du Covid, du Brexit et de la guerre en Ukraine.
+
+Je travaillerai avec eux et les élus locaux pour une programmation de la pêche, adaptée à chaque région. https://t.co/2bntsQ9D0x",False,False,"","","","","",""
+"Anne_Hidalgo","1509279307809632261","2022-03-30 21:20:02+00:00","quoting","Immense tristesse, j’ai le souvenir de nos rencontres à Paris et en Israël pour la libération de son fils. Je pense à lui et à la peine de ses proches @PKlugman https://t.co/oYGcuB166r",True,True,"1509276358693826562","J’apprends avec une immense tristesse le décès de Noam Shalit dont j’ai été l’avocat, lorsque son fils a été 5 ans durant l’otage du Hamas. Un père hors pair et un stratège dont la détermination n’a jamais failli. #Shalit  https://t.co/WVDGmnjU3l","2022-03-30 21:08:19+00:00","1524302467","Patrick Klugman","PKlugman"
+"Anne_Hidalgo","1509212822437302280","2022-03-30 16:55:51+00:00","normal","Changer nos vies, nous l'avons fait. Et ensemble, nous pouvons le refaire. Alors oui, plus que jamais, mobilisons-nous le 10 avril !
+
+Ensemble, changeons d'avenir 🇫🇷 https://t.co/Fl8e0FbBqg",False,False,"","","","","",""
+"Anne_Hidalgo","1509186726404796417","2022-03-30 15:12:09+00:00","normal","Français de l’étranger, vous participez au rayonnement de notre pays dans le monde et vous devez être soutenus. Vous êtes les premiers témoins de notre affaiblissement diplomatique.
+
+Présidente, notre France aura les moyens de ses ambitions internationales. https://t.co/o4dOu7hEUg",False,False,"","","","","",""
+"Anne_Hidalgo","1509157952824958978","2022-03-30 13:17:49+00:00","normal","🗞️ Du pouvoir d'achat aux questions internationales en passant par mes mesures pour l'environnement, j'ai présenté mon projet pour la France aux lecteurs d'@EBRApresse.
+
+À lire dans son intégralité ⤵️
+https://t.co/dfkSwP5yE4",False,False,"","","","","",""
+"Anne_Hidalgo","1509115108521304064","2022-03-30 10:27:34+00:00","retweet","RT @BorisVallaud: Merci au Congrès de l'@unccas pour cette invitation et échange!
+
+J'y représentais @Anne_Hidalgo pour parler de notre prog…",True,True,"1509110740103442438","Merci au Congrès de l'@unccas pour cette invitation et échange!
+
+J'y représentais @Anne_Hidalgo pour parler de notre programme: action sociale locale, grand âge et autonomie, jeunesse et accueil des réfugiés.
+
+Un autre chemin existe pour ces grands enjeux. https://t.co/MeFlKJFM26 https://t.co/LnfqqMwlbt","2022-03-30 10:10:13+00:00","881933353435398145","Boris VALLAUD","BorisVallaud"
+"Anne_Hidalgo","1508866119712583688","2022-03-29 17:58:10+00:00","quoting","Toute ma solidarité et mon soutien https://t.co/9p1oh197hq",True,True,"1508865199926874116","Depuis plusieurs jours #Israel est sous le feu d’attentats islamistes.
+
+En Europe vous avez connu la terreur islamiste.
+Israël a toujours exprimé sa solidarité envers les Européens.
+
+Soyez à votre tour solidaires.
+Nos vies comptent aussi.
+
+Photo : Murailles de #Jérusalem en 2015. https://t.co/nQpNG7LYkH","2022-03-29 17:54:31+00:00","103223236","Julien Bahloul","julienbahloul"
+"Anne_Hidalgo","1508859819066900483","2022-03-29 17:33:08+00:00","retweet","RT @mathieuklein: Après une rencontre avec les lecteurs du groupe @EBRApresse, déambulation au marché central et dans les rues de Nancy ave…",True,True,"1508857169495699461","Après une rencontre avec les lecteurs du groupe @EBRApresse, déambulation au marché central et dans les rues de Nancy avec @Anne_Hidalgo pour parler de ce qui est trop peu présent dans le débat public actuel : des idées pour changer la vie des français dans les 5 ans qui viennent https://t.co/KcsdBCRCU2","2022-03-29 17:22:37+00:00","43494396","Mathieu Klein","mathieuklein"
+"Anne_Hidalgo","1508851536486621190","2022-03-29 17:00:14+00:00","reply","Contente d'avoir pu échanger avec vous dans les belles rues de la capitale des Ducs de Lorraine. Je vous ai rappelé ma détermination à répondre à vos problèmes du quotidien.
+
+Ensemble, nous pouvons agir pour changer la vie, nous l'avons déjà fait, nous pouvons le refaire ! https://t.co/opcKfL1yuD",True,True,"1508851531004665868","Heureuse d'être à nouveau dans cette belle ville de Nancy. Elle est le symbole que lorsque la gauche gagne, elle change la vie des Françaises et des Français.
+
+Merci à @mathieuklein de m’accueillir en terres lorraines, en compagnie de @CECKERT56. https://t.co/jXOvPImsmV","2022-03-29 17:00:12+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508851531004665868","2022-03-29 17:00:12+00:00","normal","Heureuse d'être à nouveau dans cette belle ville de Nancy. Elle est le symbole que lorsque la gauche gagne, elle change la vie des Françaises et des Français.
+
+Merci à @mathieuklein de m’accueillir en terres lorraines, en compagnie de @CECKERT56. https://t.co/jXOvPImsmV",False,False,"","","","","",""
+"Anne_Hidalgo","1508842278613405698","2022-03-29 16:23:26+00:00","retweet","RT @FlavienCartier: En pleine campagne #presidentielles2022 et dans l'indifférence la plus totale, c'est encore une casse sociale qui se pr…",True,True,"1508665644602073088","En pleine campagne #presidentielles2022 et dans l'indifférence la plus totale, c'est encore une casse sociale qui se profile pour les Fonderies du Poitou et cette fois ce sont les 300 derniers emplois de l'alu qui risquent de disparaître d'ici l'été !
+Tristesse et colère ! https://t.co/WyP54AyoyT","2022-03-29 04:41:33+00:00","2892230890","Flavien Cartier","FlavienCartier"
+"Anne_Hidalgo","1508822907484524545","2022-03-29 15:06:28+00:00","quoting","J'adresse tous mes vœux de succès à Laurence de Magalhaes et Stéphane Ricordel, qui prendront la tête du Théâtre du Rond-Point en 2023. Je suis sûre qu'ils poursuivront avec talent le travail de Jean-Michel Ribes, qui a fait de ce théâtre un lieu culturel parisien incontournable. https://t.co/gKUgNFGty6",True,True,"1508772215097024514","« Ça arrive au bon moment. C’est le bon timing pour nous » : Laurence de Magalhaes et Stéphane Ricordel nommés à la direction du Théâtre du Rond-Point https://t.co/RDMnSRVShs","2022-03-29 11:45:02+00:00","24744541","Le Monde","lemondefr"
+"Anne_Hidalgo","1508717498119733249","2022-03-29 08:07:36+00:00","normal","Je me battrai pour que la culture retrouve sa place au cœur de notre société. Pour commencer, je veux rendre possible le grand rendez-vous entre la jeunesse et les artistes.
+
+#Le79Inter https://t.co/gpplX3lPeu",False,False,"","","","","",""
+"Anne_Hidalgo","1508715872227053573","2022-03-29 08:01:09+00:00","normal","Pour moi, l'écologie est avant tout sociale. J'accompagnerai la transition écologique des logements et des mobilités, qui sont les premiers postes de dépenses des Français. Je prendrai des mesures d'accompagnement pour réussir ensemble notre transition. 
+
+#Le79Inter https://t.co/4iHcfa9vXj",False,False,"","","","","",""
+"Anne_Hidalgo","1508712515466846214","2022-03-29 07:47:48+00:00","normal","Peuple de gauche, nous ne pouvons pas laisser être démantelée cette partie essentielle de notre protection sociale. La retraite à 65 ans, c'est cette façon qu'a Emmanuel Macron de ne pas voir la vie réelle, notamment celle de ceux qui triment toute leur vie. 
+
+#Le79Inter https://t.co/u8bCjwKE9C",False,False,"","","","","",""
+"Anne_Hidalgo","1508711192566673410","2022-03-29 07:42:33+00:00","normal","Je m'engage avec courage pour la justice. Je veux réunir la France sur les sujets qui nous rassemblent, tels que l'école, l'hôpital ou encore nos retraites. Aux Français, je veux dire qu'ensemble, par le vote du 10 avril prochain, nous pouvons changer d'avenir. 
+
+#Le79Inter https://t.co/3CvC103Mre",False,False,"","","","","",""
+"Anne_Hidalgo","1508704193443418112","2022-03-29 07:14:44+00:00","normal","Faire culpabiliser les Français qui touchent le RSA et traiter de lâches ceux qui les aident, c'est ça le projet d'Emmanuel Macron ? Il nous parle de jambe gauche et droite, mais pour l'instant il est surtout à cloche-pied sur celle de droite.
+
+#Le79Inter
+https://t.co/PDjKcvIKSr",False,False,"","","","","",""
+"Anne_Hidalgo","1508701738055962624","2022-03-29 07:04:59+00:00","retweet","RT @franceinter: .@Anne_Hidalgo : Emmanuel Macron avec la réforme du RSA ""fait le grand dépassement de la droite par la droite"" #le79Inter…",True,True,"1508696984831602690",".@Anne_Hidalgo : Emmanuel Macron avec la réforme du RSA ""fait le grand dépassement de la droite par la droite"" #le79Inter https://t.co/dgxAljToEM","2022-03-29 06:46:06+00:00","34867057","France Inter","franceinter"
+"Anne_Hidalgo","1508701634716737537","2022-03-29 07:04:34+00:00","retweet","RT @franceinter: .@Anne_Hidalgo : ""La retraite à 65 ans, c'est cette façon qu'a Emmanuel Macron de ne pas voir ce qu'est la vie réelle des…",True,True,"1508695381349175296",".@Anne_Hidalgo : ""La retraite à 65 ans, c'est cette façon qu'a Emmanuel Macron de ne pas voir ce qu'est la vie réelle des Français, et notamment de ceux qui triment""  #le79Inter https://t.co/5WaqE7T7mw","2022-03-29 06:39:43+00:00","34867057","France Inter","franceinter"
+"Anne_Hidalgo","1508553378464473089","2022-03-28 21:15:27+00:00","quoting","Mon respect et mon affection pour cette très grande dame, Ginette Kolinka @MDelafosse https://t.co/dAbwJhuuVX",True,True,"1508545587553214464","🗣️ ""La haine est à bannir de nos pensées"" 
+
+Le message de Ginette Kolinka, déportée des camps d'extermination, aux lycéens de Montpellier
+
+https://t.co/wZ6vakSYoH https://t.co/TsxszzAZGO","2022-03-28 20:44:30+00:00","357412940","franceinfo plus","franceinfoplus"
+"Anne_Hidalgo","1508529865426886658","2022-03-28 19:42:01+00:00","normal","🎙 Demain matin à 8h20, je serai l'invitée de @LeaSalame et @ndemorand dans la matinale de @franceinter. #Le79Inter https://t.co/5JD6vp6al5",False,False,"","","","","",""
+"Anne_Hidalgo","1508529130429681675","2022-03-28 19:39:06+00:00","normal","Présidente, j’augmenterai le point d’indice des fonctionnaires de 3 %. Ce sont eux qui font tenir nos services publics, si malmenés pendant le quinquennat d'Emmanuel Macron.
+
+#La26 #RuthElkrief2022 
+https://t.co/PkAbUfa5X7",False,False,"","","","","",""
+"Anne_Hidalgo","1508527657771749376","2022-03-28 19:33:15+00:00","normal","L'école est au cœur de mon projet pour la France, tant elle est intimement liée à la promesse d'égalité que nous devons à nos enfants. Je veux protéger notre école, encourager les pédagogies nouvelles et mieux rémunérer nos professeurs.
+
+#RuthElkrief2022
+https://t.co/UvI0BH3Hgw",False,False,"","","","","",""
+"Anne_Hidalgo","1508523523735752719","2022-03-28 19:16:49+00:00","normal","Avoir des avis différents et en débattre, c'est la beauté de la démocratie. Mais ces injures, ces slogans scandés samedi au Trocadéro sont inadmissibles. Cela m'a profondément choquée. 
+
+#La26 #RuthElkrief2022
+https://t.co/ncyH7INfkI",False,False,"","","","","",""
+"Anne_Hidalgo","1508514094336331789","2022-03-28 18:39:21+00:00","normal","Ce qui menace notre pays, ce n'est pas un « grand remplacement » de population, mais un « grand remplacement » de nos valeurs.
+
+#LeGrandOral #Hidalgo2022 https://t.co/89ZF2m6Mjc",False,False,"","","","","",""
+"Anne_Hidalgo","1508511540055580678","2022-03-28 18:29:12+00:00","normal","La situation de l’hôpital est alarmante, aggravée par la crise sanitaire et les choix du gouvernement. Je sortirai notre hôpital de cette logique purement comptable, en rémunérant mieux nos soignants et en recrutant pour répondre à nos besoins de santé.
+
+#LeGrandOral #Hidalgo2022 https://t.co/uBziu6qIa0",False,False,"","","","","",""
+"Anne_Hidalgo","1508510109059751946","2022-03-28 18:23:31+00:00","normal","Je veux une Europe forte pour répondre aux grands défis de notre siècle. Je travaillerai avec mes collègues sociaux-démocrates européens pour construire cette Europe réellement sociale et assurer notre protection avec l'Europe de la défense.
+
+#LeGrandOral #Hidalgo2022 https://t.co/vZKhvMKQ7N",False,False,"","","","","",""
+"Anne_Hidalgo","1508508900131328000","2022-03-28 18:18:43+00:00","normal","La guerre en Ukraine nous a confirmé qu’il est indispensable de sortir de notre dépendance aux énergies fossiles.
+
+La réponse doit être européenne : par des achats groupés, la baisse des taxes sur l'énergie et par un plan de soutien.
+
+#LeGrandOral #Hidalgo2022 https://t.co/teTCs4qsv5",False,False,"","","","","",""
+"Anne_Hidalgo","1508506207916548101","2022-03-28 18:08:01+00:00","normal","Il nous faut changer de modèle agricole en le remplaçant par un modèle bien plus respectueux de notre environnement et de notre santé. J'accompagnerai les agriculteurs et particulièrement les jeunes agricultures dans cette transition.
+
+#LeGrandOral #Hidalgo2022 https://t.co/PFCi2Tj1rM",False,False,"","","","","",""
+"Anne_Hidalgo","1508500535669927940","2022-03-28 17:45:28+00:00","reply","Ce qui menace notre pays, ce n'est pas un grand remplacement de population, mais un grand remplacement de nos valeurs.
+
+#LeGrandOral #Hidalgo2022 https://t.co/zDpHJB1Itg",True,True,"1508499912182358017","Le bilan de ce quinquennat sur le climat est bien maigre. Il faut permettre à la jeune génération de se projeter sur une planète où l'on pourra vivre. Malheureusement, Emmanuel Macron n'était pas au rendez-vous. Je le serai.
+
+#LeGrandOral #Hidalgo2022","2022-03-28 17:43:00+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508499912182358017","2022-03-28 17:43:00+00:00","reply","Le bilan de ce quinquennat sur le climat est bien maigre. Il faut permettre à la jeune génération de se projeter sur une planète où l'on pourra vivre. Malheureusement, Emmanuel Macron n'était pas au rendez-vous. Je le serai.
+
+#LeGrandOral #Hidalgo2022",True,True,"1508498660300099590","Je propose une grande odyssée industrielle sur la santé, pour regrouper tous les acteurs et porter une ambition commune. Je pense que l'on peut relocaliser la production de médicaments, masques et protections, nécessaires à la santé des Français.
+
+#LeGrandOral #Hidalgo2022","2022-03-28 17:38:01+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508498660300099590","2022-03-28 17:38:01+00:00","reply","Je propose une grande odyssée industrielle sur la santé, pour regrouper tous les acteurs et porter une ambition commune. Je pense que l'on peut relocaliser la production de médicaments, masques et protections, nécessaires à la santé des Français.
+
+#LeGrandOral #Hidalgo2022",True,True,"1508497841395748881","Je veux une Europe forte. L’Union Européenne a été au rendez-vous sur la crise sanitaire. Notamment sur les achats groupés de vaccins et sur un plan de relance qui a permis de soutenir les économies européennes et donc le pouvoir d’achat des Français.
+
+#LeGrandOral #Hidalgo2022","2022-03-28 17:34:46+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508497841395748881","2022-03-28 17:34:46+00:00","reply","Je veux une Europe forte. L’Union Européenne a été au rendez-vous sur la crise sanitaire. Notamment sur les achats groupés de vaccins et sur un plan de relance qui a permis de soutenir les économies européennes et donc le pouvoir d’achat des Français.
+
+#LeGrandOral #Hidalgo2022",True,True,"1508495888825692162","Si nous voulons que la guerre en Ukraine s’arrête, il faut cet embargo sur le gaz russe. Il faut aussi protéger les Français en contenant le prix de l’énergie. Cela passe par une baisse des taxes sur les carburants que je demande depuis longtemps.
+#LeGrandOral #Hidalgo2022","2022-03-28 17:27:01+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508495888825692162","2022-03-28 17:27:01+00:00","reply","Si nous voulons que la guerre en Ukraine s’arrête, il faut cet embargo sur le gaz russe. Il faut aussi protéger les Français en contenant le prix de l’énergie. Cela passe par une baisse des taxes sur les carburants que je demande depuis longtemps.
+#LeGrandOral #Hidalgo2022",True,True,"1508495007375888393","Ma priorité sera d'installer nos jeunes agriculteurs. Je souhaite privilégier les exploitations à taille humaine et pas uniquement celles tournées vers l'exportation. Je veux aller vers une agriculture plus respectueuse de notre environnement.
+#LeGrandOral #Hidalgo2022","2022-03-28 17:23:30+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508495007375888393","2022-03-28 17:23:30+00:00","reply","Ma priorité sera d'installer nos jeunes agriculteurs. Je souhaite privilégier les exploitations à taille humaine et pas uniquement celles tournées vers l'exportation. Je veux aller vers une agriculture plus respectueuse de notre environnement.
+#LeGrandOral #Hidalgo2022",True,True,"1508493426945409034","Je veux permettre notre souveraineté alimentaire. Nous devons faire évoluer notre agriculture vers un modèle qui soit plus respectueux de la planète, tout en assurant la qualité de ce qu’il y a dans nos assiettes.
+
+#LeGrandOral #Hidalgo2022 https://t.co/HjAMIFduDT","2022-03-28 17:17:14+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1508493426945409034","2022-03-28 17:17:14+00:00","normal","Je veux permettre notre souveraineté alimentaire. Nous devons faire évoluer notre agriculture vers un modèle qui soit plus respectueux de la planète, tout en assurant la qualité de ce qu’il y a dans nos assiettes.
+
+#LeGrandOral #Hidalgo2022 https://t.co/HjAMIFduDT",False,False,"","","","","",""
+"Anne_Hidalgo","1508491804055941123","2022-03-28 17:10:47+00:00","quoting","🔴 Suivez-moi en direct sur @Europe1 : https://t.co/g5qzS5aDWk
+
+💬 Les hashtags : #LeGrandOral et #Hidalgo2022 https://t.co/QIK1mpl1cH",True,True,"1508469450458247185","DIRECT VIDÉO - Suivez le grand oral de la présidentielle https://t.co/6DieMQOi6W","2022-03-28 15:41:57+00:00","34570323","Europe 1 🎧🌍📻","Europe1"
+"Anne_Hidalgo","1508464355205345280","2022-03-28 15:21:42+00:00","retweet","RT @2022avecHidalgo: 📽️ Découvrez la vie et le parcours de notre candidate @Anne_Hidalgo à travers les vidéos et images d'archives rassembl…",True,True,"1508463783789973506","📽️ Découvrez la vie et le parcours de notre candidate @Anne_Hidalgo à travers les vidéos et images d'archives rassemblées dans l'émission « ADN » de l'@Inafr_officiel.
+
+https://t.co/TuP7cB26ja","2022-03-28 15:19:26+00:00","1356612409822228480","2022 avec Hidalgo","2022avecHidalgo"
+"Anne_Hidalgo","1508341819914002433","2022-03-28 07:14:48+00:00","normal","🎙 Ce soir à 19h10, je serai l’invitée de la grande soirée présidentielle d’@Europe1, en partenariat avec @leJDD et @ParisMatch. #Hidalgo2022 https://t.co/zSaQje0wg7",False,False,"","","","","",""
+"Anne_Hidalgo","1508142495535931403","2022-03-27 18:02:45+00:00","quoting","Je condamne très fermement les propos tenus cet après-midi au Trocadéro.
+
+Cette violence et ces propos haineux n'ont et n'auront jamais leur place dans notre démocratie. https://t.co/MO8mUDXkF6",True,True,"1508104192002510855","En plein meeting d'Éric Zemmour au Trocadéro, la foule scande ""Macron, assassin !"" https://t.co/9VXCxqVTRn","2022-03-27 15:30:33+00:00","133663801","BFMTV","BFMTV"
+"Anne_Hidalgo","1508136727113838599","2022-03-27 17:39:50+00:00","quoting","Ne jamais oublier, combattre l’antisémitisme toujours https://t.co/ssFDP0qf65",True,True,"1508029724462882816","#cejourla - 27 mars 1942 
+
+A l’occasion de la #commémoration de la mémoire des déportés du #convoi n°1, #SergeKlarsfeld revient sur les raisons de ce départ du premier convoi de la France vers #Auschwitz. 
+
+ https://t.co/vMOE5hycQV","2022-03-27 10:34:38+00:00","46401031","Mémorial de la Shoah","Shoah_Memorial"
+"Anne_Hidalgo","1508126145782456337","2022-03-27 16:57:47+00:00","normal","Lionel Jospin incarne l'honneur de notre famille politique et la responsabilité au service de la transformation sociale. Je lui suis infiniment reconnaissante pour le soutien qu'il apporte à ma candidature. La gauche c'est aussi une fidélité.",False,False,"","","","","",""
+"Anne_Hidalgo","1508069224115322882","2022-03-27 13:11:36+00:00","retweet","RT @franceinter: .@Anne_Hidalgo : “Je suis indignée de voir ce qu'on veut faire faire à ces femmes et ces hommes, ouvriers, employés, usés,…",True,True,"1508038402423336962",".@Anne_Hidalgo : “Je suis indignée de voir ce qu'on veut faire faire à ces femmes et ces hommes, ouvriers, employés, usés, à qui on dit qu'il faut travailler plus longtemps. Pour moi c'est 62 ans, pas un de plus.” #QuestionsPol #Elysée2022 https://t.co/jSTvSCrFPj","2022-03-27 11:09:07+00:00","34867057","France Inter","franceinter"
+"Anne_Hidalgo","1508069213927268354","2022-03-27 13:11:33+00:00","retweet","RT @franceinter: .@Anne_Hidalgo : “Beaucoup de nos concitoyens savent que le projet d'Emmanuel Macron est un projet sur lequel il n'y a plu…",True,True,"1508038013112176640",".@Anne_Hidalgo : “Beaucoup de nos concitoyens savent que le projet d'Emmanuel Macron est un projet sur lequel il n'y a plus de doute, il est totalement de droite, très dur vis-à-vis de la France des classes moyennes.” #QuestionsPol #Elysée2022 https://t.co/A5rXcU2DYk","2022-03-27 11:07:34+00:00","34867057","France Inter","franceinter"
+"Anne_Hidalgo","1508069203248562177","2022-03-27 13:11:31+00:00","retweet","RT @franceinter: .@Anne_Hidalgo : “Je suis frappée par toutes ces vies difficiles de femmes et d'hommes qui ont besoin de reconnaissance, d…",True,True,"1508036685036236806",".@Anne_Hidalgo : “Je suis frappée par toutes ces vies difficiles de femmes et d'hommes qui ont besoin de reconnaissance, de considération, de salaires qui rémunèrent véritablement le travail.” #QuestionsPol #Elysée2022 https://t.co/0yZZekCUB4","2022-03-27 11:02:18+00:00","34867057","France Inter","franceinter"
+"Anne_Hidalgo","1508053364441026564","2022-03-27 12:08:35+00:00","normal","Merci à tous les Landais d'être venus à mes côtés, votre soutien me touche beaucoup. C'est ensemble que nous porterons haut et fort nos valeurs, celles de la gauche des conquêtes sociales. C'est ensemble que nous changerons d'avenir ! https://t.co/RUlL1Y42eG",False,False,"","","","","",""
+"Anne_Hidalgo","1508045177222479873","2022-03-27 11:36:03+00:00","normal","Un accueil chaleureux à Morcenx-la-Nouvelle ! C’est toujours un plaisir pour moi de me rendre dans les Landes, cette terre de gauche qui se bat pour changer la vie des gens. https://t.co/s4RPZQcqQk",False,False,"","","","","",""
+"Anne_Hidalgo","1507813076946534404","2022-03-26 20:13:46+00:00","quoting","À l'image de l'Hôtel de Ville, de nombreux monuments de Paris s'éteignent ce soir pour la 16e édition de #EarthHour. Une initiative pour rappeler notre engagement pour notre planète, le climat et la protection de la biodiversité.
+@WWFFrance https://t.co/7iv0mrMqTa",True,True,"1507807107021684741","#EarthHour | Paris s’éteint pour la planète.
+Pour en savoir plus : https://t.co/SMCaHHSNBI https://t.co/hO4l9InYlS","2022-03-26 19:50:02+00:00","71016845","Paris","Paris"
+"Anne_Hidalgo","1507809049244540935","2022-03-26 19:57:45+00:00","normal","Après mon meeting de Toulouse, direction Auch à la rencontre des habitantes et des habitants.
+
+Merci à toutes et à tous pour votre accueil et votre soutien sans faille. Ensemble, nous changerons d’avenir. https://t.co/aqLlQw0W59",False,False,"","","","","",""
+"Anne_Hidalgo","1507751539238227982","2022-03-26 16:09:14+00:00","reply","Oui, nous avons changé la vie des Françaises et des Français. Et nous pouvons le refaire ! Ne l’oubliez pas au moment de glisser votre bulletin de vote le 10 avril !
+#HidalgoToulouse #Hidalgo2022",True,True,"1507751214590615557","Sans cette gauche que je représente, la France ne serait pas la France républicaine, la France sociale et laïque, avec ses conquêtes sociétales et démocratiques.
+#HidalgoToulouse","2022-03-26 16:07:56+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507751251395686405","2022-03-26 16:08:05+00:00","normal","Nous sommes la gauche qui gouverne, la gauche des grandes conquêtes sociales.
+
+Oui, nous avons changé la vie des Français et nous pouvons le refaire. Ne l’oubliez pas au moment de glisser votre bulletin de vote le 10 avril !
+
+#HidalgoToulouse https://t.co/yFgicxwrWA",False,False,"","","","","",""
+"Anne_Hidalgo","1507751214590615557","2022-03-26 16:07:56+00:00","reply","Sans cette gauche que je représente, la France ne serait pas la France républicaine, la France sociale et laïque, avec ses conquêtes sociétales et démocratiques.
+#HidalgoToulouse",True,True,"1507750006400462856","Après ces cinq ans, et surtout après l’annonce de son programme de casse sociale, il ne peut plus y avoir de doute : Emmanuel Macron n’est « ni de gauche, ni de gauche », il est « de droite et de droite » ! #HidalgoToulouse","2022-03-26 16:03:08+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507750514146127874","2022-03-26 16:05:09+00:00","normal","Cinq années de plus avec Emmanuel Macron marqueraient l'aboutissement de toutes les réformes de régression lancées pendant ce quinquennat.
+
+Ne nous y résignons pas !
+
+#HidalgoToulouse https://t.co/eog2CTLU0u",False,False,"","","","","",""
+"Anne_Hidalgo","1507750006400462856","2022-03-26 16:03:08+00:00","reply","Après ces cinq ans, et surtout après l’annonce de son programme de casse sociale, il ne peut plus y avoir de doute : Emmanuel Macron n’est « ni de gauche, ni de gauche », il est « de droite et de droite » ! #HidalgoToulouse",True,True,"1507749706113462282","Le candidat Macron, son slogan, c’est « avec vous ». Mais son programme, c’est « contre vous » !
+#HidalgoToulouse","2022-03-26 16:01:57+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507749706113462282","2022-03-26 16:01:57+00:00","reply","Le candidat Macron, son slogan, c’est « avec vous ». Mais son programme, c’est « contre vous » !
+#HidalgoToulouse",True,True,"1507749143367794688","Le 10 avril, vous n’allez pas seulement élire une présidente ou un président, mais faire un choix de société.
+Je vous propose celui d’une République sociale, européenne, laïque, et écologiste.
+#HidalgoToulouse","2022-03-26 15:59:43+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507749539679293447","2022-03-26 16:01:17+00:00","normal","Les projets de la droite de Pécresse et de Macron, ce sont sensiblement les mêmes : appauvrir encore et encore les plus pauvres, et enrichir toujours les plus riches.
+
+#HidalgoToulouse https://t.co/omIyzQVJpX",False,False,"","","","","",""
+"Anne_Hidalgo","1507749143367794688","2022-03-26 15:59:43+00:00","reply","Le 10 avril, vous n’allez pas seulement élire une présidente ou un président, mais faire un choix de société.
+Je vous propose celui d’une République sociale, européenne, laïque, et écologiste.
+#HidalgoToulouse",True,True,"1507748813506760709","Je mettrai toute mon énergie dans la lutte contre le réchauffement climatique. Je proposerai un Sommet Paris+10, dix ans après la COP21, pour rehausser les ambitions des États, des organisations de la société civile, des acteurs de la finance et du secteur privé. #HidalgoToulouse","2022-03-26 15:58:24+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507748813506760709","2022-03-26 15:58:24+00:00","reply","Je mettrai toute mon énergie dans la lutte contre le réchauffement climatique. Je proposerai un Sommet Paris+10, dix ans après la COP21, pour rehausser les ambitions des États, des organisations de la société civile, des acteurs de la finance et du secteur privé. #HidalgoToulouse",True,True,"1507748504264970241","L’Europe est un continent de paix. Pour le rester, elle doit s’armer militairement, mais aussi lutter, avec la même force, contre les inégalités et le réchauffement climatique.
+#HidalgoToulouse","2022-03-26 15:57:10+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507748504264970241","2022-03-26 15:57:10+00:00","reply","L’Europe est un continent de paix. Pour le rester, elle doit s’armer militairement, mais aussi lutter, avec la même force, contre les inégalités et le réchauffement climatique.
+#HidalgoToulouse",True,True,"1507748193882234881","Il faut franchir maintenant un nouveau cap et jeter des bases d’une défense commune. Je favoriserai la mise en partage de notre outil de défense, la recherche et la construction d’armements adaptés aux nouveaux défis.
+#HidalgoToulouse","2022-03-26 15:55:56+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507748193882234881","2022-03-26 15:55:56+00:00","reply","Il faut franchir maintenant un nouveau cap et jeter des bases d’une défense commune. Je favoriserai la mise en partage de notre outil de défense, la recherche et la construction d’armements adaptés aux nouveaux défis.
+#HidalgoToulouse",True,True,"1507747911525883911","De Léon Blum à François Mitterrand, de Jacques Delors à Lionel Jospin et François Hollande, les socialistes français ont toujours œuvré pour l’Europe, pour son indépendance et sa cohésion. Je revendique cet héritage et je veux poursuivre leur lutte historique ! #HidalgoToulouse","2022-03-26 15:54:49+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507747911525883911","2022-03-26 15:54:49+00:00","reply","De Léon Blum à François Mitterrand, de Jacques Delors à Lionel Jospin et François Hollande, les socialistes français ont toujours œuvré pour l’Europe, pour son indépendance et sa cohésion. Je revendique cet héritage et je veux poursuivre leur lutte historique ! #HidalgoToulouse",True,True,"1507747667832672256","L’Europe démontre dans la crise ukrainienne son unité, sa volonté de devenir une puissance sur l’échiquier mondial, sa détermination à défendre ses valeurs humanistes de liberté et de justice.
+#HidalgoToulouse","2022-03-26 15:53:51+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507747667832672256","2022-03-26 15:53:51+00:00","reply","L’Europe démontre dans la crise ukrainienne son unité, sa volonté de devenir une puissance sur l’échiquier mondial, sa détermination à défendre ses valeurs humanistes de liberté et de justice.
+#HidalgoToulouse",True,True,"1507747420553236487","Je veux que les citoyens puissent désormais amender les lois ou demander l’organisation d’un référendum. Ce référendum d’initiative citoyenne voulu par les gilets jaunes, nous le ferons !
+#HidalgoToulouse","2022-03-26 15:52:52+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507747420553236487","2022-03-26 15:52:52+00:00","reply","Je veux que les citoyens puissent désormais amender les lois ou demander l’organisation d’un référendum. Ce référendum d’initiative citoyenne voulu par les gilets jaunes, nous le ferons !
+#HidalgoToulouse",True,True,"1507746937390473220","Je veux faire de notre République l’une des premières nations vraiment respectueuses de la planète ! J’instaurerai un impôt sur la fortune dédié à la transition écologique, qui mettra à contribution les plus nantis, qui sont aussi les premiers pollueurs.
+#HidalgoToulouse","2022-03-26 15:50:57+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507746937390473220","2022-03-26 15:50:57+00:00","reply","Je veux faire de notre République l’une des premières nations vraiment respectueuses de la planète ! J’instaurerai un impôt sur la fortune dédié à la transition écologique, qui mettra à contribution les plus nantis, qui sont aussi les premiers pollueurs.
+#HidalgoToulouse",True,True,"1507746604626886660","La justice, c’est faire leur place à nos aînés, trop souvent relégués dans des établissements où l’on manque de bras, réduits à une condition humiliante. J’augmenterai de 50 % l’Allocation Personnalisée d’Autonomie, et je renforcerai le personnel des EHPAD.
+#HidalgoToulouse","2022-03-26 15:49:37+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507746656468586501","2022-03-26 15:49:50+00:00","normal","Les fonctionnaires sont essentiels à notre société, je ne les oublierai pas. Nos services publics tiennent grâce à vous !
+
+#HidalgoToulouse https://t.co/N2dXfYH5KV",False,False,"","","","","",""
+"Anne_Hidalgo","1507746604626886660","2022-03-26 15:49:37+00:00","reply","La justice, c’est faire leur place à nos aînés, trop souvent relégués dans des établissements où l’on manque de bras, réduits à une condition humiliante. J’augmenterai de 50 % l’Allocation Personnalisée d’Autonomie, et je renforcerai le personnel des EHPAD.
+#HidalgoToulouse",True,True,"1507746276363886601","La justice, c’est élaborer des directives pour faire baisser les insoutenables violences dont les femmes sont les victimes. 
+C’est encore lutter énergiquement contre le cyber-harcèlement qui frappe tant d’adolescentes et d’adolescents.
+#HidalgoToulouse","2022-03-26 15:48:19+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507746276363886601","2022-03-26 15:48:19+00:00","reply","La justice, c’est élaborer des directives pour faire baisser les insoutenables violences dont les femmes sont les victimes. 
+C’est encore lutter énergiquement contre le cyber-harcèlement qui frappe tant d’adolescentes et d’adolescents.
+#HidalgoToulouse",True,True,"1507745995685249040","J’ouvrirai des négociations salariales dans toutes les branches dès le lendemain de mon élection, j’impulserai le mouvement par une hausse du SMIC de 200 € net par mois, je relèverai le point d’indice des fonctionnaires de 3 % et je créerai un minimum jeunesse.
+#HidalgoToulouse","2022-03-26 15:47:12+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507745995685249040","2022-03-26 15:47:12+00:00","reply","J’ouvrirai des négociations salariales dans toutes les branches dès le lendemain de mon élection, j’impulserai le mouvement par une hausse du SMIC de 200 € net par mois, je relèverai le point d’indice des fonctionnaires de 3 % et je créerai un minimum jeunesse.
+#HidalgoToulouse",True,True,"1507745661005017091","Dès le mois de mai, je bloquerai les prix de l’énergie, je baisserai à 5,5% la TVA qui leur est appliquée. Je n’hésiterai pas non plus à bloquer les prix des biens essentiels qui viendraient à déraper.
+#HidalgoToulouse","2022-03-26 15:45:52+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507745661005017091","2022-03-26 15:45:52+00:00","reply","Dès le mois de mai, je bloquerai les prix de l’énergie, je baisserai à 5,5% la TVA qui leur est appliquée. Je n’hésiterai pas non plus à bloquer les prix des biens essentiels qui viendraient à déraper.
+#HidalgoToulouse",True,True,"1507745238969987075","Nous irons plus loin dans la justice avec une hausse de 3 % des retraites dès le mois de juin, un minimum vieillesse à 1000 € net, un minimum contributif à 1200 € net. Je porterai la retraite agricole minimale à 85 % du SMIC et l’ouvrirai aux conjoints.
+#HidalgoToulouse","2022-03-26 15:44:12+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507745639236521988","2022-03-26 15:45:47+00:00","normal","Je revaloriserai les retraites avec une hausse de 3 % dès le mois de juin !
+
+Je porterai les retraites agricoles à 85 % du SMIC net pour tous les agriculteurs, quel que soit leur statut, et m'assurerai qu'elles soient ouvertes aux conjoints.
+
+#HidalgoToulouse https://t.co/NjRIg7k09q",False,False,"","","","","",""
+"Anne_Hidalgo","1507745238969987075","2022-03-26 15:44:12+00:00","reply","Nous irons plus loin dans la justice avec une hausse de 3 % des retraites dès le mois de juin, un minimum vieillesse à 1000 € net, un minimum contributif à 1200 € net. Je porterai la retraite agricole minimale à 85 % du SMIC et l’ouvrirai aux conjoints.
+#HidalgoToulouse",True,True,"1507744755777687556","Nous préserverons l’âge de la retraite, ce sera 62 ans, pas une année de plus, et nous permettrons le départ avant, à 59, 60 ou 61 ans, pour celles et ceux qui ont exercé des métiers pénibles.
+#HidalgoToulouse","2022-03-26 15:42:16+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507744755777687556","2022-03-26 15:42:16+00:00","reply","Nous préserverons l’âge de la retraite, ce sera 62 ans, pas une année de plus, et nous permettrons le départ avant, à 59, 60 ou 61 ans, pour celles et ceux qui ont exercé des métiers pénibles.
+#HidalgoToulouse",True,True,"1507744382694445056","Le but réel de la réforme Macron n’est pas de sauver notre retraite, mais de la réduire parce qu’il considère, ce sont ses mots, que la protection sociale coûte « un pognon de dingue » et qu’elle est inefficace.
+#HidalgoToulouse","2022-03-26 15:40:48+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507744382694445056","2022-03-26 15:40:48+00:00","reply","Le but réel de la réforme Macron n’est pas de sauver notre retraite, mais de la réduire parce qu’il considère, ce sont ses mots, que la protection sociale coûte « un pognon de dingue » et qu’elle est inefficace.
+#HidalgoToulouse",True,True,"1507744089839751168","Le temps est venu de vous rendre justice !
+Et la justice, c’est d’abord d'empêcher que l’âge de la retraite soit repoussé à 65 ans comme le souhaite Emmanuel Macron s’il était réélu.
+#HidalgoToulouse","2022-03-26 15:39:38+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507744195368394760","2022-03-26 15:40:03+00:00","normal","J’organiserai le retour de l’hôpital au cœur de notre système de santé. Je tournerai la page de l’hôpital-entreprise, les gens passeront avant l’argent !
+
+#HidalgoToulouse https://t.co/MO06hhGYYU",False,False,"","","","","",""
+"Anne_Hidalgo","1507744089839751168","2022-03-26 15:39:38+00:00","reply","Le temps est venu de vous rendre justice !
+Et la justice, c’est d’abord d'empêcher que l’âge de la retraite soit repoussé à 65 ans comme le souhaite Emmanuel Macron s’il était réélu.
+#HidalgoToulouse",True,True,"1507743767868157958","Après avoir parcouru nos territoires, je retiens que notre pays a d’abord besoin d’apaisement, de concorde, de protection, loin des vociférations et des haines. Et il a un immense besoin de respect.
+#HidalgoToulouse","2022-03-26 15:38:21+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507743767868157958","2022-03-26 15:38:21+00:00","reply","Après avoir parcouru nos territoires, je retiens que notre pays a d’abord besoin d’apaisement, de concorde, de protection, loin des vociférations et des haines. Et il a un immense besoin de respect.
+#HidalgoToulouse",True,True,"1507743449868550144","Je m’attaquerai au scandale des déserts médicaux. Je sais que dans vos territoires vous en souffrez particulièrement. Je ferai en sorte que les jeunes médecins en formation viennent y exercer. #HidalgoToulouse","2022-03-26 15:37:05+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507743729049821185","2022-03-26 15:38:12+00:00","normal","Il est intolérable que nombre de nos concitoyens soient encore confrontés à des discriminations dans leur vie quotidienne. J'agirai avec la détermination que vous me connaissez pour y mettre fin. 
+
+#HidalgoToulouse https://t.co/MK5Kdjvawo",False,False,"","","","","",""
+"Anne_Hidalgo","1507743449868550144","2022-03-26 15:37:05+00:00","reply","Je m’attaquerai au scandale des déserts médicaux. Je sais que dans vos territoires vous en souffrez particulièrement. Je ferai en sorte que les jeunes médecins en formation viennent y exercer. #HidalgoToulouse",True,True,"1507743086281216002","J’accroîtrai les capacités d’accueil de nos facultés de médecine afin qu’elles forment jusqu’à 15 000 nouveaux médecins par an. J’augmenterai le nombre des autres soignants et je poursuivrai la revalorisation de leurs rémunérations et de leurs carrières. #HidalgoToulouse","2022-03-26 15:35:38+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507743086281216002","2022-03-26 15:35:38+00:00","reply","J’accroîtrai les capacités d’accueil de nos facultés de médecine afin qu’elles forment jusqu’à 15 000 nouveaux médecins par an. J’augmenterai le nombre des autres soignants et je poursuivrai la revalorisation de leurs rémunérations et de leurs carrières. #HidalgoToulouse",True,True,"1507742819477241859","J’organiserai le retour de l’hôpital public au cœur du système de santé, où les gens passeront avant l’argent ! Nous tournerons la page de l’hôpital-entreprise et du carcan comptable des dépenses de santé.
+#HidalgoToulouse","2022-03-26 15:34:35+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507742819477241859","2022-03-26 15:34:35+00:00","reply","J’organiserai le retour de l’hôpital public au cœur du système de santé, où les gens passeront avant l’argent ! Nous tournerons la page de l’hôpital-entreprise et du carcan comptable des dépenses de santé.
+#HidalgoToulouse",True,True,"1507742430992420871","Malgré la pénurie et la désorganisation, nos soignants ont fait face. Ils ont été là, nos urgentistes, nos infirmières, nos aides-soignants, nos brancardiers, nos sages-femmes, nos médecins, nos réanimateurs, nos chirurgiens. Nous pouvons les applaudir encore ! #HidalgoToulouse","2022-03-26 15:33:02+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507742430992420871","2022-03-26 15:33:02+00:00","reply","Malgré la pénurie et la désorganisation, nos soignants ont fait face. Ils ont été là, nos urgentistes, nos infirmières, nos aides-soignants, nos brancardiers, nos sages-femmes, nos médecins, nos réanimateurs, nos chirurgiens. Nous pouvons les applaudir encore ! #HidalgoToulouse",True,True,"1507741914979786756","La pandémie nous a rappelé qu’il ne peut y avoir de bien-être dans la République sans un grand service public de la Santé. Elle nous a aussi révélé les faiblesses et souffrances de l’hôpital public. Il était pourtant le meilleur du monde il y a à peine vingt ans.
+#HidalgoToulouse","2022-03-26 15:30:59+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507741914979786756","2022-03-26 15:30:59+00:00","reply","La pandémie nous a rappelé qu’il ne peut y avoir de bien-être dans la République sans un grand service public de la Santé. Elle nous a aussi révélé les faiblesses et souffrances de l’hôpital public. Il était pourtant le meilleur du monde il y a à peine vingt ans.
+#HidalgoToulouse",True,True,"1507741566571618305","La laïcité n’a rien à voir avec les propos de haine contre une partie de la population. Au contraire, elle est un principe qui condamne toutes les discriminations.
+#HidalgoToulouse","2022-03-26 15:29:36+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507741566571618305","2022-03-26 15:29:36+00:00","reply","La laïcité n’a rien à voir avec les propos de haine contre une partie de la population. Au contraire, elle est un principe qui condamne toutes les discriminations.
+#HidalgoToulouse",True,True,"1507741163381534721","Je serai vigilante pour combattre la falsification de l’histoire qu’on lit dans les discours de l’extrême-droite. Il revient à l’école de transmettre un récit national véridique et lucide.
+#HidalgoToulouse","2022-03-26 15:28:00+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507741163381534721","2022-03-26 15:28:00+00:00","reply","Je serai vigilante pour combattre la falsification de l’histoire qu’on lit dans les discours de l’extrême-droite. Il revient à l’école de transmettre un récit national véridique et lucide.
+#HidalgoToulouse",True,True,"1507740741094813697","Je défendrai les professeurs contre toutes les atteintes à la laïcité à l’école, d’où qu’elles viennent ! Je les défendrai contre les attaques récurrentes des intégrismes. Je protégerai les programmes, je protégerai le savoir et la liberté pédagogique.
+#HidalgoToulouse","2022-03-26 15:26:19+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507741018690658312","2022-03-26 15:27:25+00:00","normal","La laïcité n'a pas besoin d'adjectif. Ce sont ses belles règles de vie en commun que nous avons inventées pour en finir avec l’obscurantisme et les préjugés qui nous ont enfermés pendant des siècles dans l’ignorance et la servitude.
+
+#HidalgoToulouse https://t.co/m3QlHazvQM",False,False,"","","","","",""
+"Anne_Hidalgo","1507740741094813697","2022-03-26 15:26:19+00:00","reply","Je défendrai les professeurs contre toutes les atteintes à la laïcité à l’école, d’où qu’elles viennent ! Je les défendrai contre les attaques récurrentes des intégrismes. Je protégerai les programmes, je protégerai le savoir et la liberté pédagogique.
+#HidalgoToulouse",True,True,"1507740390736207877","La République a inventé un principe qui permet de faire vivre ses valeurs : la laïcité. Jaurès fut l’un des grands concepteurs de la loi de 1905 et reliait la séparation des Églises et de l’État à la construction d’une école dégagée des préjugés et des dogmes.
+#HidalgoToulouse","2022-03-26 15:24:56+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507740390736207877","2022-03-26 15:24:56+00:00","reply","La République a inventé un principe qui permet de faire vivre ses valeurs : la laïcité. Jaurès fut l’un des grands concepteurs de la loi de 1905 et reliait la séparation des Églises et de l’État à la construction d’une école dégagée des préjugés et des dogmes.
+#HidalgoToulouse",True,True,"1507740074993238020","Je veux que les professeurs soient mieux considérés.
+Je revaloriserai les salaires des enseignants, en commençant par les professeurs des écoles qui débuteront désormais leurs carrières, comme les cadres, à 2 350 euros net !
+#HidalgoToulouse","2022-03-26 15:23:40+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507740074993238020","2022-03-26 15:23:40+00:00","reply","Je veux que les professeurs soient mieux considérés.
+Je revaloriserai les salaires des enseignants, en commençant par les professeurs des écoles qui débuteront désormais leurs carrières, comme les cadres, à 2 350 euros net !
+#HidalgoToulouse",True,True,"1507739758331629574","J’assume d’investir dans l’école et, au premier chef, dans le travail de ses professeurs qui sont les hussards de la République, les transmetteurs du savoir sans lesquels il n’y a pas de vraie liberté.
+#HidalgoToulouse","2022-03-26 15:22:25+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507739758331629574","2022-03-26 15:22:25+00:00","reply","J’assume d’investir dans l’école et, au premier chef, dans le travail de ses professeurs qui sont les hussards de la République, les transmetteurs du savoir sans lesquels il n’y a pas de vraie liberté.
+#HidalgoToulouse",True,True,"1507739429561057283","Je supprimerai Parcoursup ! Et j’augmenterai les places dans l’enseignement supérieur. Je généraliserai les cursus en alternance, apportant rémunération et adaptation des temps scolaires.
+#HidalgoToulouse","2022-03-26 15:21:07+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507739429561057283","2022-03-26 15:21:07+00:00","reply","Je supprimerai Parcoursup ! Et j’augmenterai les places dans l’enseignement supérieur. Je généraliserai les cursus en alternance, apportant rémunération et adaptation des temps scolaires.
+#HidalgoToulouse",True,True,"1507739156574871559","Nous mettrons fin à cette dérive dangereuse, qui dessine le projet d’une école dédiée à la sélection hiérarchique du petit groupe des sachants et des puissants, une école qui continue de reproduire les inégalités de départ.
+#HidalgoToulouse","2022-03-26 15:20:02+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507739182168428544","2022-03-26 15:20:08+00:00","normal","Emmanuel Macron ne prépare rien de moins que la privatisation de notre école publique et la mise en concurrence de nos enseignants.
+
+Je protègerai l'école en lui redonnant les moyens dont elle a besoin pour exercer sa mission essentielle.
+
+#HidalgoToulouse https://t.co/vv1jNvqIvF",False,False,"","","","","",""
+"Anne_Hidalgo","1507739156574871559","2022-03-26 15:20:02+00:00","reply","Nous mettrons fin à cette dérive dangereuse, qui dessine le projet d’une école dédiée à la sélection hiérarchique du petit groupe des sachants et des puissants, une école qui continue de reproduire les inégalités de départ.
+#HidalgoToulouse",True,True,"1507738745151406083","Le véritable projet d'Emmanuel Macron et de Jean-Michel Blanquer, c’est une privatisation rampante de l’école, habillée en efficacité managériale.
+#HidalgoToulouse","2022-03-26 15:18:23+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507738745151406083","2022-03-26 15:18:23+00:00","reply","Le véritable projet d'Emmanuel Macron et de Jean-Michel Blanquer, c’est une privatisation rampante de l’école, habillée en efficacité managériale.
+#HidalgoToulouse",True,True,"1507738432575000586","Pour Jaurès, l’école devait assurer l’autonomie intellectuelle de l’individu, tout en garantissant la force de nos valeurs collectives. Pour lui, l’école est intimement liée au combat historique des socialistes et des républicains.
+#HidalgoToulouse","2022-03-26 15:17:09+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507738432575000586","2022-03-26 15:17:09+00:00","reply","Pour Jaurès, l’école devait assurer l’autonomie intellectuelle de l’individu, tout en garantissant la force de nos valeurs collectives. Pour lui, l’école est intimement liée au combat historique des socialistes et des républicains.
+#HidalgoToulouse",True,True,"1507738073962057733","La promesse de la République, c’était d’abord l’école. Je dois ma liberté à l’école, à mes professeurs qui m’ont formée et encouragée, et à tous ceux qui ont pensé que je pouvais être utile comme inspectrice du travail, puis comme élue à Paris.
+#HidalgoToulouse","2022-03-26 15:15:43+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507738073962057733","2022-03-26 15:15:43+00:00","reply","La promesse de la République, c’était d’abord l’école. Je dois ma liberté à l’école, à mes professeurs qui m’ont formée et encouragée, et à tous ceux qui ont pensé que je pouvais être utile comme inspectrice du travail, puis comme élue à Paris.
+#HidalgoToulouse",True,True,"1507737817077723136","Je suis devenue Française à l’âge de 14 ans. Je garde toujours près de moi mon décret de naturalisation, comme le symbole de mon adhésion à notre République Française.
+#HidalgoToulouse","2022-03-26 15:14:42+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507737817077723136","2022-03-26 15:14:42+00:00","reply","Je suis devenue Française à l’âge de 14 ans. Je garde toujours près de moi mon décret de naturalisation, comme le symbole de mon adhésion à notre République Française.
+#HidalgoToulouse",True,True,"1507737230017761285","Les revenus pétroliers et gaziers représentent 30 % des ressources budgétaires de la Russie. Alors, il est temps de mettre fin en Europe à nos importations de pétrole et de gaz russes !
+#HidalgoToulouse","2022-03-26 15:12:22+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507737270094372870","2022-03-26 15:12:32+00:00","normal","Je le redis au Président @ZelenskyyUa : nous sommes là !
+
+Nous sommes là pour accueillir davantage de réfugiés Ukrainiens. Nous sommes là pour prendre des sanctions économiques. Nous sommes là pour continuer à livrer des armes aux combattants de la liberté.
+
+#HidalgoToulouse https://t.co/qgIwmNeELG",False,False,"","","","","",""
+"Anne_Hidalgo","1507737230017761285","2022-03-26 15:12:22+00:00","reply","Les revenus pétroliers et gaziers représentent 30 % des ressources budgétaires de la Russie. Alors, il est temps de mettre fin en Europe à nos importations de pétrole et de gaz russes !
+#HidalgoToulouse",True,True,"1507736824583794689","Nous sommes là pour accueillir et demander une amplification du mouvement d’accueil partout en France. C’est la demande que je formule à nouveau ici, d’une coordination, européenne, de l’accueil, en fonction des capacités et des choix de destination des réfugiés.
+#HidalgoToulouse","2022-03-26 15:10:46+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507736824583794689","2022-03-26 15:10:46+00:00","reply","Nous sommes là pour accueillir et demander une amplification du mouvement d’accueil partout en France. C’est la demande que je formule à nouveau ici, d’une coordination, européenne, de l’accueil, en fonction des capacités et des choix de destination des réfugiés.
+#HidalgoToulouse",True,True,"1507736535982034955","Le Président Zelensky, dans son discours fort et émouvant devant les parlementaires et les élus parisiens, nous a appelés à l’aide à nouveau, à tout faire pour stopper la guerre désastreuse que Poutine a engagée. Nous lui répondons : « Nous sommes là ! »
+#HidalgoToulouse","2022-03-26 15:09:37+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507736535982034955","2022-03-26 15:09:37+00:00","reply","Le Président Zelensky, dans son discours fort et émouvant devant les parlementaires et les élus parisiens, nous a appelés à l’aide à nouveau, à tout faire pour stopper la guerre désastreuse que Poutine a engagée. Nous lui répondons : « Nous sommes là ! »
+#HidalgoToulouse",True,True,"1507736247124598788","La guerre est revenue en Europe, elle menace d’embraser le continent et le monde. Le message universel de la France nous oblige. J’ai soutenu tout de suite, sans condition, totalement, le peuple ukrainien, agressé par un tyran.
+#HidalgoToulouse","2022-03-26 15:08:28+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507736247124598788","2022-03-26 15:08:28+00:00","reply","La guerre est revenue en Europe, elle menace d’embraser le continent et le monde. Le message universel de la France nous oblige. J’ai soutenu tout de suite, sans condition, totalement, le peuple ukrainien, agressé par un tyran.
+#HidalgoToulouse",True,True,"1507735910078681103","En ce moment tragique de notre histoire avec le départ forcé de millions d’Ukrainiens sur les routes, je sais que beaucoup savent et ressentent ce que signifie l’exil et son besoin effréné de fraternité pour être rassuré et repartir de l’avant.
+#HidalgoToulouse","2022-03-26 15:07:07+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507735910078681103","2022-03-26 15:07:07+00:00","reply","En ce moment tragique de notre histoire avec le départ forcé de millions d’Ukrainiens sur les routes, je sais que beaucoup savent et ressentent ce que signifie l’exil et son besoin effréné de fraternité pour être rassuré et repartir de l’avant.
+#HidalgoToulouse",True,True,"1507735558109515783","À Toulouse, je pense à mon grand-père républicain espagnol. Condamné à mort par un tribunal militaire franquiste. Il a connu la douleur de l’exil, de la prison. Il a transmis à mon père l’amour de la France, pays des libertés, de la République et de Victor Hugo.
+#HidalgoToulouse","2022-03-26 15:05:44+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507735558109515783","2022-03-26 15:05:44+00:00","reply","À Toulouse, je pense à mon grand-père républicain espagnol. Condamné à mort par un tribunal militaire franquiste. Il a connu la douleur de l’exil, de la prison. Il a transmis à mon père l’amour de la France, pays des libertés, de la République et de Victor Hugo.
+#HidalgoToulouse",True,True,"1507734937432113161","Depuis des mois, j’ai parcouru notre belle France, qui souffre mais qui espère. J’ai rencontré tant de nos compatriotes de toutes conditions, les plus pauvres, d’autres, moins pauvres mais qui se paupérisent, des Français de tous âges, de toutes origines. #HidalgoToulouse https://t.co/iV0cI84ian","2022-03-26 15:03:16+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1507734937432113161","2022-03-26 15:03:16+00:00","normal","Depuis des mois, j’ai parcouru notre belle France, qui souffre mais qui espère. J’ai rencontré tant de nos compatriotes de toutes conditions, les plus pauvres, d’autres, moins pauvres mais qui se paupérisent, des Français de tous âges, de toutes origines. #HidalgoToulouse https://t.co/iV0cI84ian",False,False,"","","","","",""
+"Anne_Hidalgo","1507733906535157764","2022-03-26 14:59:10+00:00","normal","🔴 EN DIRECT | Suivez-moi en live pour mon meeting à Toulouse ! #HidalgoToulouse https://t.co/d2dB1Y2UR1",False,False,"","","","","",""
 "Anne_Hidalgo","1507715674281500677","2022-03-26 13:46:43+00:00","normal","L’école, pourtant au cœur de notre pacte républicain, sort profondément abîmée du quinquennat d'Emmanuel Macron.
 
 Je revaloriserai les salaires de nos enseignants, si mal rémunérés. Je faciliterai également l'accès aux nouvelles pédagogies et aux formations en alternance. https://t.co/PUYsVRZzpS",False,False,"","","","","",""
@@ -769,14 +1299,14 @@ https://t.co/6cT01oQnvU","2022-03-09 12:46:01+00:00","71016845","Paris","Paris"
 
 NON au programme #Macron !  Non à la Retraite à 65 ans… https://t.co/oXSAZoLQz7","2022-03-10 10:49:56+00:00","2304258970","Sébastien Vincini 🌹","SebVincini"
 "Anne_Hidalgo","1501873167694020609","2022-03-10 10:50:41+00:00","retweet","RT @mpdelagontrie: Pour @Anne_Hidalgo ce matin 1er debat à la @CFDT avec @CfdtBerger https://t.co/QrTj3cyfBY",True,True,"1501830447210409985","Pour @Anne_Hidalgo ce matin 1er debat à la @CFDT avec @CfdtBerger https://t.co/QrTj3cyfBY","2022-03-10 08:00:55+00:00","48731776","mpdelagontrie","mpdelagontrie"
-"Anne_Hidalgo","1501868333855121412","2022-03-10 10:31:28+00:00","reply","Rien ne peut se faire sans dialogue social. Je souhaite une plus grande association des salariés aux décisions de l’entreprise, restaurer les comités d’hygiène de sécurité et des conditions de travail (CHSCT) et lancer des négociations par branches pour des hausses de salaires.",True,True,"1501868332441559040","Je souhaite au contraire sanctuariser l’âge de départ à 62 ans, réinstaurer les critères de pénibilité supprimés par Macron et porter le minimum retraite à 1 200 euros.
-
-@CFDT","2022-03-10 10:31:28+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1501868332441559040","2022-03-10 10:31:28+00:00","reply","Je souhaite au contraire sanctuariser l’âge de départ à 62 ans, réinstaurer les critères de pénibilité supprimés par Macron et porter le minimum retraite à 1 200 euros.
 
 @CFDT",True,True,"1501868330155659268","Je l'ai redit devant la @CFDT, le projet de Macron de repousser à 65 ans l’âge de départ à la retraite est un scandale absolu !
 
 Cela va toucher ceux qui ont les métiers les plus pénibles, et les plus faibles dont l'espérance de vie ne permet déjà pas de profiter de la retraite. https://t.co/9hhHehITbG","2022-03-10 10:31:27+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1501868333855121412","2022-03-10 10:31:28+00:00","reply","Rien ne peut se faire sans dialogue social. Je souhaite une plus grande association des salariés aux décisions de l’entreprise, restaurer les comités d’hygiène de sécurité et des conditions de travail (CHSCT) et lancer des négociations par branches pour des hausses de salaires.",True,True,"1501868332441559040","Je souhaite au contraire sanctuariser l’âge de départ à 62 ans, réinstaurer les critères de pénibilité supprimés par Macron et porter le minimum retraite à 1 200 euros.
+
+@CFDT","2022-03-10 10:31:28+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1501868330155659268","2022-03-10 10:31:27+00:00","normal","Je l'ai redit devant la @CFDT, le projet de Macron de repousser à 65 ans l’âge de départ à la retraite est un scandale absolu !
 
 Cela va toucher ceux qui ont les métiers les plus pénibles, et les plus faibles dont l'espérance de vie ne permet déjà pas de profiter de la retraite. https://t.co/9hhHehITbG",False,False,"","","","","",""
@@ -1022,11 +1552,11 @@ Votre liberté est la nôtre.
 
 📺#LCI https://t.co/xvtZP9ZLaY","2022-03-05 14:53:59+00:00","26110930","LCI","LCI"
 "Anne_Hidalgo","1500081675996434440","2022-03-05 12:11:56+00:00","retweet","RT @EricLejoindre: L'accueil des réfugiés Ukrainiens s'organise à @Paris, notamment dans le 18e avec un lieu de premier accueil où nous éti…",True,True,"1500074406596513793","L'accueil des réfugiés Ukrainiens s'organise à @Paris, notamment dans le 18e avec un lieu de premier accueil où nous étions ce matin avec @Anne_Hidalgo. Situé 39 rue des Cheminots ouvert 7j/7 de 9h à 18h et géré par @Franceterdasile il offre accueil et orientation. https://t.co/rFHBkSYd6H","2022-03-05 11:43:03+00:00","104120115","Eric Lejoindre","EricLejoindre"
-"Anne_Hidalgo","1500081499001049088","2022-03-05 12:11:14+00:00","normal","Paris se mobilise pour l'Ukraine et ses ressortissants.
-Avec @OmelchenkoVadym, au centre d'accueil ouvert par @Franceterdasile à #Paris18 en lien avec la Ville et l’État. Ici, les réfugiés ukrainiens bénéficient d'une écoute et d'un accompagnement pour toutes leurs démarches. https://t.co/MS3MXisJ8E",False,False,"","","","","",""
 "Anne_Hidalgo","1500081502121598976","2022-03-05 12:11:14+00:00","reply","Retrouvez tous les dispositifs mis en place par la ville de Paris pour venir en aide aux Ukrainiens arrivant dans la capitale. ⬇
 https://t.co/V64ZyrKwVF",True,True,"1500081499001049088","Paris se mobilise pour l'Ukraine et ses ressortissants.
 Avec @OmelchenkoVadym, au centre d'accueil ouvert par @Franceterdasile à #Paris18 en lien avec la Ville et l’État. Ici, les réfugiés ukrainiens bénéficient d'une écoute et d'un accompagnement pour toutes leurs démarches. https://t.co/MS3MXisJ8E","2022-03-05 12:11:14+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1500081499001049088","2022-03-05 12:11:14+00:00","normal","Paris se mobilise pour l'Ukraine et ses ressortissants.
+Avec @OmelchenkoVadym, au centre d'accueil ouvert par @Franceterdasile à #Paris18 en lien avec la Ville et l’État. Ici, les réfugiés ukrainiens bénéficient d'une écoute et d'un accompagnement pour toutes leurs démarches. https://t.co/MS3MXisJ8E",False,False,"","","","","",""
 "Anne_Hidalgo","1500069430210043906","2022-03-05 11:23:16+00:00","normal","Pour exprimer mon soutien au peuple ukrainien, je me joindrai au rassemblement qui se tiendra aujourd'hui à 15h, place de République à Paris.
 
 #StandWithUkraine️ 🇺🇦 https://t.co/LYQWVKE3s2",False,False,"","","","","",""
@@ -1055,8 +1585,8 @@ Cc @Interieur_Gouv @Armees_Gouv https://t.co/YoCDW8E5OW","2022-03-02 12:12:42+00
 #Les4V #StandWithUkraine https://t.co/uwAOZwD37r",False,False,"","","","","",""
 "Anne_Hidalgo","1500009276714143746","2022-03-05 07:24:15+00:00","normal","J'étais en Pologne avec le maire de Varsovie, et d'autres maires européens, pour travailler sur la question des réfugiés. Les maires sont en première ligne, nous sommes ceux qui accueillent, accompagnent et coordonnent, avec l’Union européenne, l’accueil des réfugiés ukrainiens. https://t.co/Bb85NMAHsQ",False,False,"","","","","",""
 "Anne_Hidalgo","1499811575154282502","2022-03-04 18:18:39+00:00","normal","🎙 Demain matin à 7h35, je serai l'invitée des « 4 Vérités » sur @France2tv. #Les4V https://t.co/RrPu9YBo5o",False,False,"","","","","",""
-"Anne_Hidalgo","1499776927560880129","2022-03-04 16:00:58+00:00","reply","Lors de cette réunion, nous avons pu écouter le témoignage poignant de @AndriySadovyi, maire de Lviv en Ukraine. Nous lui avons exprimé tout notre soutien alors qu'il se bat pour sa ville, pour ses habitants, pour la liberté. Notre liberté. https://t.co/Qrs2pG69my",True,True,"1499776925505626113","À Varsovie, avec Rafał @trzaskowski_ et des maires européens du ""Pacte des Villes Libres"", pour échanger sur notre coordination pour venir en aide aux réfugiés et apporter une aide économique à l'Ukraine. Nous appelons l'Union européenne à soutenir les villes dans cette démarche. https://t.co/3IrLYfVxpO","2022-03-04 16:00:58+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1499776925505626113","2022-03-04 16:00:58+00:00","normal","À Varsovie, avec Rafał @trzaskowski_ et des maires européens du ""Pacte des Villes Libres"", pour échanger sur notre coordination pour venir en aide aux réfugiés et apporter une aide économique à l'Ukraine. Nous appelons l'Union européenne à soutenir les villes dans cette démarche. https://t.co/3IrLYfVxpO",False,False,"","","","","",""
+"Anne_Hidalgo","1499776927560880129","2022-03-04 16:00:58+00:00","reply","Lors de cette réunion, nous avons pu écouter le témoignage poignant de @AndriySadovyi, maire de Lviv en Ukraine. Nous lui avons exprimé tout notre soutien alors qu'il se bat pour sa ville, pour ses habitants, pour la liberté. Notre liberté. https://t.co/Qrs2pG69my",True,True,"1499776925505626113","À Varsovie, avec Rafał @trzaskowski_ et des maires européens du ""Pacte des Villes Libres"", pour échanger sur notre coordination pour venir en aide aux réfugiés et apporter une aide économique à l'Ukraine. Nous appelons l'Union européenne à soutenir les villes dans cette démarche. https://t.co/3IrLYfVxpO","2022-03-04 16:00:58+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1499742531545882632","2022-03-04 13:44:18+00:00","retweet","RT @AnouchToranian: 🇺🇦 La Ville de @Paris aux côtés de l’Ukraine
 
 En soutien au peuple ukrainien qui se bat pour défendre la paix et sa li…",True,True,"1499687335679737860","🇺🇦 La Ville de @Paris aux côtés de l’Ukraine
@@ -1086,8 +1616,8 @@ https://t.co/hE6yf0yHT0","2022-03-04 11:45:27+00:00","1356612409822228480","2022
 👉  https://t.co/bcT7dsqLyU https://t.co/BB1N6W0Ldm",True,True,"1499702192948887552","#StandWithUkraine | Paris se mobilise pour l'Ukraine 🇺🇦
 👉  https://t.co/bcT7dsqLyU https://t.co/BB1N6W0Ldm","2022-03-04 11:04:00+00:00","71016845","Paris","Paris"
 "Anne_Hidalgo","1499473186399961090","2022-03-03 19:54:01+00:00","reply","Retrouvez toute ma réaction : https://t.co/6cQYLBtYjV",True,True,"1499473184516620288","De l'autre côté, le projet que je porte pour changer d’avenir. Pour l’égalité réelle, pour le soin à chacun, pour l’attention aux autres et aux générations futures : l’école, la sécurité sociale, le soutien à l’hôpital, le travail correctement payé et la planification écologique.","2022-03-03 19:54:00+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
-"Anne_Hidalgo","1499473184516620288","2022-03-03 19:54:00+00:00","reply","De l'autre côté, le projet que je porte pour changer d’avenir. Pour l’égalité réelle, pour le soin à chacun, pour l’attention aux autres et aux générations futures : l’école, la sécurité sociale, le soutien à l’hôpital, le travail correctement payé et la planification écologique.",True,True,"1499473182763462678","D’un côté, la droite version Macron ou Pécresse : l'illusion qu'en faisant prospérer ceux qui ont déjà tout, cela ruisselle sur tous les autres. A chaque fois c’est l'inverse qui se produit, les plus aisés s’enrichissent, les classes moyennes et populaires se paupérisent.","2022-03-03 19:54:00+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1499473182763462678","2022-03-03 19:54:00+00:00","reply","D’un côté, la droite version Macron ou Pécresse : l'illusion qu'en faisant prospérer ceux qui ont déjà tout, cela ruisselle sur tous les autres. A chaque fois c’est l'inverse qui se produit, les plus aisés s’enrichissent, les classes moyennes et populaires se paupérisent.",True,True,"1499473180976689164","L’annonce du Président sortant est sans surprise. Cela fait des mois que le président Macron est au service du candidat Macron. Le débat démocratique que je demande, projet contre projet, va enfin pouvoir se tenir.","2022-03-03 19:53:59+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
+"Anne_Hidalgo","1499473184516620288","2022-03-03 19:54:00+00:00","reply","De l'autre côté, le projet que je porte pour changer d’avenir. Pour l’égalité réelle, pour le soin à chacun, pour l’attention aux autres et aux générations futures : l’école, la sécurité sociale, le soutien à l’hôpital, le travail correctement payé et la planification écologique.",True,True,"1499473182763462678","D’un côté, la droite version Macron ou Pécresse : l'illusion qu'en faisant prospérer ceux qui ont déjà tout, cela ruisselle sur tous les autres. A chaque fois c’est l'inverse qui se produit, les plus aisés s’enrichissent, les classes moyennes et populaires se paupérisent.","2022-03-03 19:54:00+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1499473180976689164","2022-03-03 19:53:59+00:00","normal","L’annonce du Président sortant est sans surprise. Cela fait des mois que le président Macron est au service du candidat Macron. Le débat démocratique que je demande, projet contre projet, va enfin pouvoir se tenir.",False,False,"","","","","",""
 "Anne_Hidalgo","1499432690377965573","2022-03-03 17:13:06+00:00","normal","Actuellement à Paris, le Kyiv City Ballet a exprimé son souhait de rester pour le moment en France afin de continuer à travailler, à répéter et à faire vivre leur art. À ma demande, le @theatrechatelet les accueillera en résidence, autant de temps que le ballet le souhaitera.",False,False,"","","","","",""
 "Anne_Hidalgo","1499424403309875211","2022-03-03 16:40:10+00:00","reply","Je veux aller beaucoup plus loin concernant les fléaux que sont la haine en ligne et le cyberharcèlement.
@@ -4007,12 +4537,12 @@ A #Kaboul 🇦🇫, une trentaine d'Afghanes ont manifesté ce mardi pour la dé
 La gentillesse diminuerait le stress et abaisserait la tension artérielle. Et en plus elle est communicative !
 https://t.co/GVnhSK0jyB","2021-12-26 08:00:25+00:00","580858852","Fédé de cardiologie","fedecardio"
 "Anne_Hidalgo","1475024558314950658","2021-12-26 08:43:53+00:00","quoting","Immense respect et reconnaissance pour ce combattant infatigable des droits et de l’égalité qui vient de s’éteindre. Qu’il repose en paix. https://t.co/rO5Aqj6LNi",True,True,"1475004933124628485","Décès à 90 ans de Desmond Tutu, icône de la lutte anti-apartheid #AFP https://t.co/oah4H8aXsy","2021-12-26 07:25:54+00:00","338985020","Agence France-Presse","afpfr"
-"Anne_Hidalgo","1474441955471990785","2021-12-24 18:08:50+00:00","reply","Je veux également saluer nos pompiers, nos policiers municipaux et nationaux et nos militaires qui veillent sur nous en cette soirée si particulière. Merci également aux agents du service public parisien pour leur engagement, chaque jour de l’année.",True,True,"1474441953920139269","En ce 24 décembre, j’ai une pensée toute particulière pour les soignants qui sont mobilisés toute cette nuit. 
-Un immense merci à ces femmes et ces hommes, durement éprouvés depuis près de 2 ans, qui continuent de nous protéger, sans relâche, dans des conditions très difficiles.","2021-12-24 18:08:50+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1474441956709314561","2021-12-24 18:08:50+00:00","reply","Merci à celles et ceux qui sont auprès des plus vulnérables, et pensées pour les Françaises et Français qui sont seuls ou loin de leurs proches car touchés par cette nouvelle vague de Covid-19. C’est ensemble que nous tiendrons.
 À toutes et tous, passez un bon réveillon de Noël !",True,True,"1474441955471990785","Je veux également saluer nos pompiers, nos policiers municipaux et nationaux et nos militaires qui veillent sur nous en cette soirée si particulière. Merci également aux agents du service public parisien pour leur engagement, chaque jour de l’année.","2021-12-24 18:08:50+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1474441953920139269","2021-12-24 18:08:50+00:00","normal","En ce 24 décembre, j’ai une pensée toute particulière pour les soignants qui sont mobilisés toute cette nuit. 
 Un immense merci à ces femmes et ces hommes, durement éprouvés depuis près de 2 ans, qui continuent de nous protéger, sans relâche, dans des conditions très difficiles.",False,False,"","","","","",""
+"Anne_Hidalgo","1474441955471990785","2021-12-24 18:08:50+00:00","reply","Je veux également saluer nos pompiers, nos policiers municipaux et nationaux et nos militaires qui veillent sur nous en cette soirée si particulière. Merci également aux agents du service public parisien pour leur engagement, chaque jour de l’année.",True,True,"1474441953920139269","En ce 24 décembre, j’ai une pensée toute particulière pour les soignants qui sont mobilisés toute cette nuit. 
+Un immense merci à ces femmes et ces hommes, durement éprouvés depuis près de 2 ans, qui continuent de nous protéger, sans relâche, dans des conditions très difficiles.","2021-12-24 18:08:50+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
 "Anne_Hidalgo","1474034211761926149","2021-12-23 15:08:36+00:00","retweet","RT @Paris: #COVID19 | Où se faire vacciner ? Comment prendre rendez-vous ? Qui peut se faire vacciner ?
 Tout ce qu'il faut savoir  👉 https:…",True,True,"1473670177971748879","#COVID19 | Où se faire vacciner ? Comment prendre rendez-vous ? Qui peut se faire vacciner ?
 Tout ce qu'il faut savoir  👉 https://t.co/Yy6HvTMtUY https://t.co/Ue7JXeaNlj","2021-12-22 15:02:04+00:00","71016845","Paris","Paris"
@@ -4455,11 +4985,11 @@ Non, cette France au passé falsifié n’est pas la nôtre !
 "Anne_Hidalgo","1470034615389896708","2021-12-12 14:15:38+00:00","retweet","RT @EricAndrieuEU: Salle comble Palais des Congrès de #Perpignan pour le meeting d’⁦@Anne_Hidalgo⁩ #Hidalgo2022 🌹🇫🇷 https://t.co/T7WdeFvJr4",True,True,"1470032420875509764","Salle comble Palais des Congrès de #Perpignan pour le meeting d’⁦@Anne_Hidalgo⁩ #Hidalgo2022 🌹🇫🇷 https://t.co/T7WdeFvJr4","2021-12-12 14:06:55+00:00","415475621","Eric Andrieu","EricAndrieuEU"
 "Anne_Hidalgo","1470033564846723081","2021-12-12 14:11:28+00:00","retweet","RT @partisocialiste: « Allez voir le peuple de gauche, et dites lui qu’il y a une candidate qui a clairement posé la question du rassemblem…",True,True,"1470032748815470594","« Allez voir le peuple de gauche, et dites lui qu’il y a une candidate qui a clairement posé la question du rassemblement. Il faut porter ce souffle, la jeunesse de ce pays le mérite ! »
 – @MDelafosse #HidalgoPerpignan #Hidalgo2022 https://t.co/Cpi3RgrWdT","2021-12-12 14:08:13+00:00","19900973","Parti socialiste","partisocialiste"
+"Anne_Hidalgo","1470030670047109124","2021-12-12 13:59:58+00:00","normal","🔴 Suivez en direct mon meeting depuis Perpignan ! #Hidalgo2022
+https://t.co/W8SY2GcJJz",False,False,"","","","","",""
 "Anne_Hidalgo","1470030671884206081","2021-12-12 13:59:58+00:00","reply","À suivre aussi sur Twitch avec @GenerationAH !
 https://t.co/OsQ9HV2mEW",True,True,"1470030670047109124","🔴 Suivez en direct mon meeting depuis Perpignan ! #Hidalgo2022
 https://t.co/W8SY2GcJJz","2021-12-12 13:59:58+00:00","26073581","Anne Hidalgo","Anne_Hidalgo"
-"Anne_Hidalgo","1470030670047109124","2021-12-12 13:59:58+00:00","normal","🔴 Suivez en direct mon meeting depuis Perpignan ! #Hidalgo2022
-https://t.co/W8SY2GcJJz",False,False,"","","","","",""
 "Anne_Hidalgo","1470029411214839810","2021-12-12 13:54:58+00:00","retweet","RT @partisocialiste: « @Anne_Hidalgo, tu as fait appel à la responsabilité collective pour rassembler la gauche. Tu as tout notre soutien.…",True,True,"1470028754479198210","« @Anne_Hidalgo, tu as fait appel à la responsabilité collective pour rassembler la gauche. Tu as tout notre soutien. Ceux qui refusent la primaire citoyenne seront demain les responsables de la politique libérale, nationaliste même ... »
 – @HMalherbe66 #HidalgoPerpignan https://t.co/tIfyeE0p8y","2021-12-12 13:52:21+00:00","19900973","Parti socialiste","partisocialiste"
 "Anne_Hidalgo","1470027426642202630","2021-12-12 13:47:04+00:00","retweet","RT @SebVincini: 🇫🇷🌹C’est parti pour le meeting d’@Anne_Hidalgo à #Perpignan !
@@ -6251,13 +6781,13 @@ Pour mettre fin au « plus grand vol de l’Histoire», @Anne_Hidalgo propose 
 "Anne_Hidalgo","1455978871870955521","2021-11-03 19:23:08+00:00","retweet","RT @JFDebat: « J’ai un rendez vous avec les femmes françaises ». @Anne_Hidalgo",True,True,"1455826844855513091","« J’ai un rendez vous avec les femmes françaises ». @Anne_Hidalgo https://t.co/4eOoG62TDT","2021-11-03 09:19:02+00:00","462841023","Jean-François Debat","JFDebat"
 "Anne_Hidalgo","1455978871883456521","2021-11-03 19:23:08+00:00","retweet","RT @BernardJomier: M Le 1er ministre @JeanCASTEX , quel est le rapport entre les postes vacants d’infirmières, d’aide-soignants et le numer…",True,True,"1455913054865141778","M Le 1er ministre @JeanCASTEX , quel est le rapport entre les postes vacants d’infirmières, d’aide-soignants et le numerus clausus qui ne concernait que les médecins ? Aucun,vous le savez. Il est temps de vous tourner vers l’avenir et de répondre au malaise profond des soignants. https://t.co/3SehgvGERR","2021-11-03 15:01:36+00:00","485777791","Bernard Jomier","BernardJomier"
 "Anne_Hidalgo","1455978871879307266","2021-11-03 19:23:08+00:00","retweet","RT @faureolivier: La langue de Molière est aussi celle de Mohamed. #Goncourt plutôt que #zemmour !",True,True,"1455902214455767047","La langue de Molière est aussi celle de Mohamed. #Goncourt plutôt que #zemmour ! https://t.co/SWsYqNDARu","2021-11-03 14:18:31+00:00","213754264","Olivier Faure","faureolivier"
-"Anne_Hidalgo","1455978871875153923","2021-11-03 19:23:08+00:00","retweet","RT @Dieynadiop2021: Aujourd'hui et jusqu'à la fin de l'année pour les femmes c'est gratuit. Avec #Hidalgo2022 cette réalité ne sera pas une…",True,True,"1455837974487343104","Aujourd'hui et jusqu'à la fin de l'année pour les femmes c'est gratuit. Avec #Hidalgo2022 cette réalité ne sera pas une fatalité, agir contre pour l'égalité salariale c'est possible #3Novembre9h22 https://t.co/iOe5ak86HP","2021-11-03 10:03:15+00:00","3086395801","Dieynaba Diop","Dieynadiop2021"
 "Anne_Hidalgo","1455978871887650818","2021-11-03 19:23:08+00:00","retweet","RT @olivierbianchi1: A partir de maintenant et jusqu'à la fin de l'année, en France, les femmes travaillent gratuitement.
 
 Réveillons-nous,…",True,True,"1455843765420187650","A partir de maintenant et jusqu'à la fin de l'année, en France, les femmes travaillent gratuitement.
 
 Réveillons-nous, et mobilisons-nous contre les inégalités salariales !","2021-11-03 10:26:16+00:00","991900411","Olivier Bianchi","olivierbianchi1"
 "Anne_Hidalgo","1455978871883505664","2021-11-03 19:23:08+00:00","retweet","RT @RemiFeraud: Le #budget rectificatif entérine surtout l’absence de mesures suffisantes pour soutenir le pouvoir d’achat des Français ! L…",True,True,"1455947234265210888","Le #budget rectificatif entérine surtout l’absence de mesures suffisantes pour soutenir le pouvoir d’achat des Français ! Les @senateursPS proposeront lors de sa discussion au #Sénat d’abaisser à 5,5 % la #TVA sur les carburants dès le mois de décembre 2021. https://t.co/Dfx1h6Nv1v","2021-11-03 17:17:25+00:00","519390633","Rémi Féraud","RemiFeraud"
+"Anne_Hidalgo","1455978871875153923","2021-11-03 19:23:08+00:00","retweet","RT @Dieynadiop2021: Aujourd'hui et jusqu'à la fin de l'année pour les femmes c'est gratuit. Avec #Hidalgo2022 cette réalité ne sera pas une…",True,True,"1455837974487343104","Aujourd'hui et jusqu'à la fin de l'année pour les femmes c'est gratuit. Avec #Hidalgo2022 cette réalité ne sera pas une fatalité, agir contre pour l'égalité salariale c'est possible #3Novembre9h22 https://t.co/iOe5ak86HP","2021-11-03 10:03:15+00:00","3086395801","Dieynaba Diop","Dieynadiop2021"
 "Anne_Hidalgo","1455978872466550786","2021-11-03 19:23:08+00:00","quoting","Toutes mes félicitations à Mohamed Mbougar Sarr pour le prestigieux prix Goncourt, hâte de vous lire ! https://t.co/bP3F6JsrQj",True,True,"1455865249572196352","Le prix Goncourt pour le Sénégalais Mohamed Mbougar Sarr (""La plus secrète mémoire des hommes"") #AFP https://t.co/sCrKmq6bR4","2021-11-03 11:51:38+00:00","338985020","Agence France-Presse","afpfr"
 "Anne_Hidalgo","1455972994359119872","2021-11-03 18:59:47+00:00","retweet","RT @GenerationAH: Depuis aujourd’hui 9h22, et jusqu’à la fin de l’année, les femmes travaillent gratuitement.
 
